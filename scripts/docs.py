@@ -330,9 +330,9 @@ def serve():
         "This is here only to preview a site with translations already built.")
     typer.echo("Make sure you run the build-all command first.")
     os.chdir("site")
-    server_address = ("", 8008)
+    server_address = ("", 80)
     server = HTTPServer(server_address, SimpleHTTPRequestHandler)
-    typer.echo(f"Serving at: http://127.0.0.1:8008")
+    typer.echo(f"Serving at: http://127.0.0.1:80")
     server.serve_forever()
 
 
