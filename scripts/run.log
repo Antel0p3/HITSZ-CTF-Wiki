@@ -1,0 +1,5 @@
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/download/ctf-wiki-master/scripts/docs.py", line 23, in <module>
+    missing_translation_snippet = open(missing_translation_snippet_path).read()
+FileNotFoundError: [Errno 2] No such file or directory: 'docs/missing-translation.md'

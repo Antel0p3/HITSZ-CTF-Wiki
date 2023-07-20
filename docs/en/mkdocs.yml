@@ -1,0 +1,84 @@
+site_name: HITSZ CTF Wiki
+site_description: HITSZ CTF Wiki
+site_author: Del0n1x
+site_url: http://10.249.12.98:8021/en/
+repo_name: HITSZ-CTF-Wiki
+repo_url: https://github.com/Antel0p3/HITSZ-CTF-Wiki
+edit_uri: blob/master/docs/zh/docs/
+copyright: Copyright &copy; 2020 - 2021 HITSZ CTF Wiki Team
+theme:
+  name: material
+  language: en
+  palette:
+    primary: Teal
+    accent: red
+    scheme: preference
+  icon:
+    repo: fontawesome/brands/github-alt
+  logo: http://10.249.12.98:8021/static/img/logo.png
+  features:
+  - navigation.tabs
+  - navigation.tabs.sticky
+  - search.suggest
+  - search.highlight
+  - search.share
+  font:
+    text: Noto Sans
+    code: Source Code Pro
+plugins:
+- search
+- minify:
+    minify_html: true
+nav:
+- Start:
+  - index.md
+  - discussion.md
+  - Contributing Guide:
+    - contribute/before-contributing.md
+    - contribute/basic-contribute-approach.md
+    - contribute/documentation-requirement.md
+    - contribute/translation.md
+markdown_extensions:
+- admonition
+- md_in_html
+- codehilite:
+    guess_lang: false
+- def_list
+- footnotes
+- meta
+- toc:
+    permalink: true
+- pymdownx.arithmatex
+- pymdownx.caret
+- pymdownx.critic
+- pymdownx.details
+- pymdownx.emoji:
+    emoji_index: !!python/name:materialx.emoji.twemoji ''
+    emoji_generator: !!python/name:materialx.emoji.to_svg ''
+- pymdownx.highlight
+- pymdownx.inlinehilite
+- pymdownx.keys
+- pymdownx.magiclink
+- pymdownx.mark
+- pymdownx.smartsymbols
+- pymdownx.superfences:
+    custom_fences:
+    - name: mermaid
+      class: mermaid
+      format: !!python/name:pymdownx.superfences.fence_code_format ''
+- pymdownx.tasklist:
+    custom_checkbox: true
+- pymdownx.tilde
+extra:
+  alternate:
+  - link: /
+    name: zh - 汉语
+  - link: /en/
+    name: en - English
+  copyright: CC BY-NC-SA 4.0
+extra_javascript:
+- https://cdnjs.loli.net/ajax/libs/pangu/3.3.0/pangu.min.js
+- http://10.249.12.98:8021/static/js/extra.js
+- https://cdnjs.loli.net/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML
+extra_css:
+- http://10.249.12.98:8021/static/css/extra.css
