@@ -1,7 +1,7 @@
 site_name: HITSZ CTF Wiki
 site_description: HITSZ CTF Wiki
 site_author: Del0n1x
-site_url: http://10.249.12.98:8021/en/
+site_url: http://10.249.12.98:6719/en/
 repo_name: HITSZ-CTF-Wiki
 repo_url: https://github.com/Antel0p3/HITSZ-CTF-Wiki
 edit_uri: blob/master/docs/zh/docs/
@@ -10,12 +10,12 @@ theme:
   name: material
   language: en
   palette:
-    primary: White
+    primary: white
     accent: red
     scheme: preference
   icon:
     repo: fontawesome/brands/github-alt
-  logo: http://10.249.12.98:8021/static/img/logo2.png
+  logo: http://10.249.12.98:6719/static/img/logo2.png
   features:
   - navigation.tabs
   - navigation.tabs.sticky
@@ -78,7 +78,7 @@ extra:
   copyright: CC BY-NC-SA 4.0
 extra_javascript:
 - https://cdnjs.loli.net/ajax/libs/pangu/3.3.0/pangu.min.js
-- http://10.249.12.98:8021/static/js/extra.js
+- http://10.249.12.98:6719/static/js/extra.js
 - https://cdnjs.loli.net/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML
 extra_css:
-- http://10.249.12.98:8021/static/css/extra.css
+- http://10.249.12.98:6719/static/css/extra.css

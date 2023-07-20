@@ -1,7 +1,7 @@
 site_name: HITSZ CTF Wiki
 site_description: HITSZ CTF Wiki
 site_author: Del0n1x
-site_url: http://10.249.12.98:8021/
+site_url: http://10.249.12.98:6719/
 repo_name: HITSZ-CTF-Wiki
 repo_url: https://github.com/Antel0p3/HITSZ-CTF-Wiki
 edit_uri: blob/master/docs/zh/docs/
@@ -10,7 +10,7 @@ theme:
   name: material
   language: zh
   palette:
-    primary: White
+    primary: blue
     accent: red
     scheme: preference
   icon:
