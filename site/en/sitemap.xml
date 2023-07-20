@@ -6,17 +6,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://10.249.12.98:8021/en/contribute/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/contributer/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>http://10.249.12.98:8021/en/discussion/</loc>
+         <lastmod>2023-07-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://10.249.12.98:8021/en/join/</loc>
+         <lastmod>2023-07-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://10.249.12.98:8021/en/members/</loc>
          <lastmod>2023-07-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -42,336 +42,6 @@
     </url>
     <url>
          <loc>http://10.249.12.98:8021/en/crypto/introduction/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/asymmetric/introduction/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/asymmetric/discrete-log/discrete-log/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/asymmetric/discrete-log/ecc/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/asymmetric/discrete-log/elgamal/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/asymmetric/lattice/cvp/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/asymmetric/lattice/introduction/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/asymmetric/lattice/knapsack/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/asymmetric/lattice/lattice-reduction/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/asymmetric/lattice/lcg/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/asymmetric/lattice/ntru/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/asymmetric/lattice/overview/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/asymmetric/lattice/svp/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/asymmetric/rsa/rsa_chosen_plain_cipher/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/asymmetric/rsa/rsa_complex/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/asymmetric/rsa/rsa_coppersmith_attack/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/asymmetric/rsa/rsa_d_attack/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/asymmetric/rsa/rsa_e_attack/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/asymmetric/rsa/rsa_module_attack/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/asymmetric/rsa/rsa_pkcs_attack/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/asymmetric/rsa/rsa_side_channel/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/asymmetric/rsa/rsa_theory/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/attack-summary/attack-mode/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/attack-summary/bit-attack/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/attack-summary/meet-in-the-middle/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/basic/introduction/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/blockcipher/aes/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/blockcipher/arx-operations/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/blockcipher/des/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/blockcipher/idea/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/blockcipher/introduction/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/blockcipher/simon-speck/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/blockcipher/mode/cbc/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/blockcipher/mode/cfb/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/blockcipher/mode/ctr/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/blockcipher/mode/ecb/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/blockcipher/mode/introduction/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/blockcipher/mode/ofb/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/blockcipher/mode/padding-oracle-attack/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/blockcipher/mode/padding/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/blockcipher/mode/pcbc/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/certificate/introduction/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/classical/introduction/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/classical/monoalphabetic/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/classical/others/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/classical/polyalphabetic/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/classical/summary/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/hash/attack/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/hash/complex/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/hash/fnv/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/hash/introduction/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/hash/md5/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/hash/sha1/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/signature/dsa/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/signature/elgamal/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/signature/introduction/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/signature/rsa/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/streamcipher/intro/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/streamcipher/fsr/intro/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/streamcipher/fsr/lfsr/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/streamcipher/fsr/nfsr/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/streamcipher/lcg/challenge/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/streamcipher/lcg/intro/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/streamcipher/prng/csprng/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/streamcipher/prng/intro/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/streamcipher/prng/problem/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/crypto/streamcipher/special/rc4/</loc>
          <lastmod>2023-07-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -407,136 +77,6 @@
     </url>
     <url>
          <loc>http://10.249.12.98:8021/en/misc/introduction/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/misc/prefix/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/misc/recon/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/misc/archive/rar/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/misc/archive/zip/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/misc/audio/introduction/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/misc/disk-memory/introduction/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/misc/disk-memory/problem/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/misc/encode/communication/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/misc/encode/computer/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/misc/encode/modern/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/misc/other/pyc/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/misc/picture/gif/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/misc/picture/introduction/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/misc/picture/jpg/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/misc/picture/png/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/misc/traffic/data/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/misc/traffic/fix/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/misc/traffic/introduction/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/misc/traffic/protocols/dns/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/misc/traffic/protocols/ftp/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/misc/traffic/protocols/http/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/misc/traffic/protocols/https/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/misc/traffic/protocols/readme/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/misc/traffic/protocols/usb/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/misc/traffic/protocols/wifi/</loc>
-         <lastmod>2023-07-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://10.249.12.98:8021/en/misc/traffic/protocols/wireshark/</loc>
          <lastmod>2023-07-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -582,6 +122,11 @@
     </url>
     <url>
          <loc>http://10.249.12.98:8021/en/web/Function_library/python/</loc>
+         <lastmod>2023-07-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://10.249.12.98:8021/en/web/XML/xxe/</loc>
          <lastmod>2023-07-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -696,6 +241,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>http://10.249.12.98:8021/en/web/scripts/Php_session%E4%B8%AD%E7%9A%84%E6%9D%A1%E4%BB%B6%E7%AB%9E%E4%BA%89%E8%84%9A%E6%9C%AC/</loc>
+         <lastmod>2023-07-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>http://10.249.12.98:8021/en/web/scripts/RC4%E5%8A%A0%E5%AF%86%E8%84%9A%E6%9C%AC/</loc>
          <lastmod>2023-07-20</lastmod>
          <changefreq>daily</changefreq>
@@ -732,6 +282,11 @@
     </url>
     <url>
          <loc>http://10.249.12.98:8021/en/web/serialize/PHP/PHP%E5%8E%9F%E7%94%9F%E7%B1%BB%E7%9A%84%E5%BA%94%E7%94%A8/DirectoryIterator/</loc>
+         <lastmod>2023-07-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://10.249.12.98:8021/en/web/serialize/PHP/PHP%E5%8E%9F%E7%94%9F%E7%B1%BB%E7%9A%84%E5%BA%94%E7%94%A8/Error_Exception/</loc>
          <lastmod>2023-07-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -876,6 +431,21 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>http://10.249.12.98:8021/en/web/upload/%E6%9C%A8%E9%A9%AC/</loc>
+         <lastmod>2023-07-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://10.249.12.98:8021/en/web/%E6%A1%86%E6%9E%B6%E6%BC%8F%E6%B4%9E_%E5%87%BD%E6%95%B0%E6%BC%8F%E6%B4%9E/Java/jboss_getshell/</loc>
+         <lastmod>2023-07-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://10.249.12.98:8021/en/web/%E6%A1%86%E6%9E%B6%E6%BC%8F%E6%B4%9E_%E5%87%BD%E6%95%B0%E6%BC%8F%E6%B4%9E/JavaScript/Node.js/nodejs_unicode%E5%AD%97%E7%AC%A6%E6%8D%9F%E5%9D%8F/</loc>
+         <lastmod>2023-07-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>http://10.249.12.98:8021/en/web/%E6%A1%86%E6%9E%B6%E6%BC%8F%E6%B4%9E_%E5%87%BD%E6%95%B0%E6%BC%8F%E6%B4%9E/JavaScript/Node.js/nodejs%E6%B2%99%E7%9B%92/</loc>
          <lastmod>2023-07-20</lastmod>
          <changefreq>daily</changefreq>
@@ -892,6 +462,11 @@
     </url>
     <url>
          <loc>http://10.249.12.98:8021/en/web/%E6%A1%86%E6%9E%B6%E6%BC%8F%E6%B4%9E_%E5%87%BD%E6%95%B0%E6%BC%8F%E6%B4%9E/PHP/PHP-FPM%E6%9C%AA%E6%8E%88%E6%9D%83%E8%AE%BF%E9%97%AE%E6%BC%8F%E6%B4%9E/</loc>
+         <lastmod>2023-07-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://10.249.12.98:8021/en/web/%E6%A1%86%E6%9E%B6%E6%BC%8F%E6%B4%9E_%E5%87%BD%E6%95%B0%E6%BC%8F%E6%B4%9E/PHP/Thinkphp3.2/</loc>
          <lastmod>2023-07-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -946,7 +521,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>http://10.249.12.98:8021/en/web/%E6%A1%86%E6%9E%B6%E6%BC%8F%E6%B4%9E_%E5%87%BD%E6%95%B0%E6%BC%8F%E6%B4%9E/PHP/php%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%A7%A3%E6%9E%90%E7%89%B9%E6%80%A7/</loc>
+         <lastmod>2023-07-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>http://10.249.12.98:8021/en/web/%E6%A1%86%E6%9E%B6%E6%BC%8F%E6%B4%9E_%E5%87%BD%E6%95%B0%E6%BC%8F%E6%B4%9E/PHP/%E4%BC%A0%E5%8F%82%E6%A0%BC%E5%BC%8F/</loc>
+         <lastmod>2023-07-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://10.249.12.98:8021/en/web/%E6%A1%86%E6%9E%B6%E6%BC%8F%E6%B4%9E_%E5%87%BD%E6%95%B0%E6%BC%8F%E6%B4%9E/PHP/%E5%B8%B8%E8%A7%81%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E5%87%BD%E6%95%B0/</loc>
          <lastmod>2023-07-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -967,6 +552,11 @@
     </url>
     <url>
          <loc>http://10.249.12.98:8021/en/web/%E6%A1%86%E6%9E%B6%E6%BC%8F%E6%B4%9E_%E5%87%BD%E6%95%B0%E6%BC%8F%E6%B4%9E/Perl/%E7%AE%A1%E9%81%93%E7%AC%A6/</loc>
+         <lastmod>2023-07-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://10.249.12.98:8021/en/web/%E6%A1%86%E6%9E%B6%E6%BC%8F%E6%B4%9E_%E5%87%BD%E6%95%B0%E6%BC%8F%E6%B4%9E/python2_python3/python3/Redis/</loc>
          <lastmod>2023-07-20</lastmod>
          <changefreq>daily</changefreq>
     </url>

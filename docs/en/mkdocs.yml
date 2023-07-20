@@ -10,12 +10,12 @@ theme:
   name: material
   language: en
   palette:
-    primary: Teal
+    primary: White
     accent: red
     scheme: preference
   icon:
     repo: fontawesome/brands/github-alt
-  logo: http://10.249.12.98:8021/static/img/logo.png
+  logo: http://10.249.12.98:8021/static/img/logo2.png
   features:
   - navigation.tabs
   - navigation.tabs.sticky

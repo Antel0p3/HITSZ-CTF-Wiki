@@ -10,12 +10,12 @@ theme:
   name: material
   language: en
   palette:
-    primary: Teal
+    primary: White
     accent: red
     scheme: preference
   icon:
     repo: fontawesome/brands/github-alt
-  logo: http://10.249.12.98:8021/static/img/logo.png
+  logo: http://10.249.12.98:8021/static/img/logo2.png
   features:
   - navigation.tabs
   - navigation.tabs.sticky
@@ -32,8 +32,8 @@ plugins:
 nav:
 - Start:
   - index.md
-  - contribute.md
-  - contributer.md
+  - join.md
+  - members.md
 - Introduction:
   - introduction/history.md
   - introduction/mode.md
@@ -43,139 +43,8 @@ nav:
   - introduction/resources.md
 - Misc:
   - misc/introduction.md
-  - misc/recon.md
-  - 编码分析:
-    - misc/encode/communication.md
-    - misc/encode/computer.md
-    - misc/encode/modern.md
-  - misc/prefix.md
-  - 图片分析:
-    - misc/picture/introduction.md
-    - misc/picture/png.md
-    - misc/picture/jpg.md
-    - misc/picture/gif.md
-  - 音频隐写:
-    - misc/audio/introduction.md
-  - 流量包分析:
-    - misc/traffic/introduction.md
-    - misc/traffic/fix.md
-    - 协议分析:
-      - misc/traffic/protocols/readme.md
-      - misc/traffic/protocols/wireshark.md
-      - misc/traffic/protocols/http.md
-      - misc/traffic/protocols/https.md
-      - misc/traffic/protocols/ftp.md
-      - misc/traffic/protocols/dns.md
-      - misc/traffic/protocols/wifi.md
-      - misc/traffic/protocols/usb.md
-    - misc/traffic/data.md
-  - 压缩包分析:
-    - misc/archive/zip.md
-    - misc/archive/rar.md
-  - 磁盘内存分析:
-    - misc/disk-memory/introduction.md
-    - misc/disk-memory/problem.md
-  - Other:
-    - misc/other/pyc.md
 - Crypto:
   - crypto/introduction.md
-  - 基础数学知识:
-    - crypto/basic/introduction.md
-  - 古典密码:
-    - crypto/classical/introduction.md
-    - crypto/classical/monoalphabetic.md
-    - crypto/classical/polyalphabetic.md
-    - crypto/classical/others.md
-    - crypto/classical/summary.md
-  - 流密码:
-    - crypto/streamcipher/intro.md
-    - 伪随机数生成器:
-      - crypto/streamcipher/prng/intro.md
-      - crypto/streamcipher/prng/csprng.md
-      - crypto/streamcipher/prng/problem.md
-    - 线性同余生成器:
-      - crypto/streamcipher/lcg/intro.md
-      - crypto/streamcipher/lcg/challenge.md
-    - 反馈移位寄存器:
-      - crypto/streamcipher/fsr/intro.md
-      - crypto/streamcipher/fsr/lfsr.md
-      - crypto/streamcipher/fsr/nfsr.md
-    - 特殊流密码:
-      - crypto/streamcipher/special/rc4.md
-  - 块加密:
-    - crypto/blockcipher/introduction.md
-    - ARX:
-      - crypto/blockcipher/arx-operations.md
-    - DES:
-      - crypto/blockcipher/des.md
-    - IDEA:
-      - crypto/blockcipher/idea.md
-    - AES:
-      - crypto/blockcipher/aes.md
-    - Simon and Speck:
-      - crypto/blockcipher/simon-speck.md
-    - 分组模式:
-      - crypto/blockcipher/mode/introduction.md
-      - crypto/blockcipher/mode/padding.md
-      - crypto/blockcipher/mode/ecb.md
-      - crypto/blockcipher/mode/cbc.md
-      - crypto/blockcipher/mode/pcbc.md
-      - crypto/blockcipher/mode/cfb.md
-      - crypto/blockcipher/mode/ofb.md
-      - crypto/blockcipher/mode/ctr.md
-      - crypto/blockcipher/mode/padding-oracle-attack.md
-  - 非对称加密:
-    - crypto/asymmetric/introduction.md
-    - RSA:
-      - crypto/asymmetric/rsa/rsa_theory.md
-      - crypto/asymmetric/rsa/rsa_module_attack.md
-      - crypto/asymmetric/rsa/rsa_e_attack.md
-      - crypto/asymmetric/rsa/rsa_d_attack.md
-      - crypto/asymmetric/rsa/rsa_coppersmith_attack.md
-      - crypto/asymmetric/rsa/rsa_chosen_plain_cipher.md
-      - crypto/asymmetric/rsa/rsa_side_channel.md
-      - crypto/asymmetric/rsa/rsa_pkcs_attack.md
-      - crypto/asymmetric/rsa/rsa_complex.md
-    - 离散对数相关:
-      - crypto/asymmetric/discrete-log/discrete-log.md
-      - crypto/asymmetric/discrete-log/elgamal.md
-      - crypto/asymmetric/discrete-log/ecc.md
-    - 格密码:
-      - crypto/asymmetric/lattice/overview.md
-      - crypto/asymmetric/lattice/introduction.md
-      - crypto/asymmetric/lattice/lattice-reduction.md
-      - crypto/asymmetric/lattice/svp.md
-      - crypto/asymmetric/lattice/cvp.md
-      - crypto/asymmetric/lattice/knapsack.md
-      - crypto/asymmetric/lattice/ntru.md
-      - crypto/asymmetric/lattice/lcg.md
-  - 哈希函数:
-    - crypto/hash/introduction.md
-    - MD5:
-      - crypto/hash/md5.md
-    - SHA1:
-      - crypto/hash/sha1.md
-    - FNV:
-      - crypto/hash/fnv.md
-    - Hash Attack:
-      - crypto/hash/attack.md
-    - crypto/hash/complex.md
-  - 数字签名:
-    - crypto/signature/introduction.md
-    - RSA 数字签名:
-      - crypto/signature/rsa.md
-    - ElGamal 数字签名:
-      - crypto/signature/elgamal.md
-    - DSA 数字签名:
-      - crypto/signature/dsa.md
-  - 攻击思想总结:
-    - crypto/attack-summary/attack-mode.md
-    - 中间相遇攻击:
-      - crypto/attack-summary/meet-in-the-middle.md
-    - 比特攻击:
-      - crypto/attack-summary/bit-attack.md
-  - 证书格式:
-    - crypto/certificate/introduction.md
 - Web:
   - web/readme.md
   - web/changelog.md
@@ -204,6 +73,7 @@ nav:
       - PHP原生类的应用:
         - web/serialize/PHP/PHP原生类的应用/DirectoryIterator.md
         - web/serialize/PHP/PHP原生类的应用/else.md
+        - web/serialize/PHP/PHP原生类的应用/Error_Exception.md
         - web/serialize/PHP/PHP原生类的应用/SimpleXMLElement.md
         - web/serialize/PHP/PHP原生类的应用/SoapClient.md
       - web/serialize/PHP/phar反序列化漏洞.md
@@ -233,6 +103,7 @@ nav:
     - web/upload/文件上传基础.md
     - web/upload/文件上传中进阶.md
     - web/upload/htaccess.md
+    - web/upload/木马.md
   - Include:
     - web/include/include_normal.md
     - web/include/include_pro.md
@@ -250,6 +121,8 @@ nav:
       - web/XSS_CSS_CSP/xss/CTF中的利用姿势.md
     - web/XSS_CSS_CSP/css/CSS注入.md
     - web/XSS_CSS_CSP/csp/CSP.md
+  - XML:
+    - web/XML/xxe.md
   - 框架漏洞_函数漏洞:
     - PHP:
       - web/框架漏洞_函数漏洞/PHP/htaccess文件.md
@@ -266,6 +139,13 @@ nav:
       - web/框架漏洞_函数漏洞/PHP/ereg正则%00截断.md
       - web/框架漏洞_函数漏洞/PHP/open_basedir绕过.md
       - web/框架漏洞_函数漏洞/PHP/PHP-FPM未授权访问漏洞.md
+      - web/框架漏洞_函数漏洞/PHP/Thinkphp3.2.md
+      - web/框架漏洞_函数漏洞/PHP/php字符串解析特性.md
+      - web/框架漏洞_函数漏洞/PHP/常见命令执行函数.md
+    - Java:
+      - web/框架漏洞_函数漏洞/Java/jboss_getshell.md
+    - Python:
+      - web/框架漏洞_函数漏洞/python2_python3/python3/Redis.md
     - Perl:
       - web/框架漏洞_函数漏洞/Perl/管道符.md
       - web/框架漏洞_函数漏洞/Perl/PARAM.md
@@ -274,12 +154,14 @@ nav:
         - web/框架漏洞_函数漏洞/JavaScript/Node.js/Nodejs-原型链污染/原理.md
         - web/框架漏洞_函数漏洞/JavaScript/Node.js/Nodejs-原型链污染/实战.md
       - web/框架漏洞_函数漏洞/JavaScript/Node.js/nodejs沙盒.md
+      - web/框架漏洞_函数漏洞/JavaScript/Node.js/nodejs_unicode字符损坏.md
   - Scripts:
     - web/scripts/RC4加密脚本.md
     - web/scripts/md5截断爆破.md
     - web/scripts/Flask-Session脚本解密.md
     - web/scripts/取反字符.md
     - web/scripts/php_seed爆破.md
+    - web/scripts/Php_session中的条件竞争脚本.md
   - Crypto:
     - web/crypto/MD5扩展攻击介绍.md
     - web/crypto/CBC_Padding_Oracle攻击.md
