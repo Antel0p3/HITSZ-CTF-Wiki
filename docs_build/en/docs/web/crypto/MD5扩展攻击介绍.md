@@ -4,7 +4,7 @@ hash长度拓展攻击
 
     You can read it through google translate.
 
-    Besides, you can also help to translate it: [Contributing](https://ctf-wiki.org/en/contribute/before-contributing/).
+    Besides, you can also help to translate it: [Contributing](https://ctf-wiki.org/en/contribute/before-contributing/). 
 
 
 

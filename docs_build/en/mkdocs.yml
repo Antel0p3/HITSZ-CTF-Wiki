@@ -175,8 +175,12 @@ nav:
   - Reverse Overview:
     - reverse/readme.md
 - Pwn:
-  - Pwn Overview:
-    - pwn/readme.md
+  - pwn/readme.md
+  - pwn/roadmap.md
+  - 知识总结:
+    - pwn/points/binary-protection/binary-protection.md
+  - WriteUp:
+    - pwn/writeups/shellwego-wp/shellwego-wp.md
 markdown_extensions:
 - admonition
 - md_in_html
