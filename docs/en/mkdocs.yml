@@ -10,7 +10,7 @@ theme:
   name: material
   language: en
   palette:
-    primary: white
+    primary: blue
     accent: red
     scheme: preference
   icon:
