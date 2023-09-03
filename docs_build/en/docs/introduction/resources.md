@@ -1,4 +1,4 @@
-# 学习资源
+# CTF入门学习资料
 !!! warning
     The current page still doesn't have a translation for this language.
 
@@ -8,80 +8,82 @@
 
 
 
-## 在线学习
+## CTF了解+MISC入门视频：
 
--   [i 春秋-专业的网络安全|信息安全在线学习培训平台](http://www.ichunqiu.com)
--   [看雪知识库](https://www.kanxue.com/chm.htm)
--   [CTFHub](https://www.ctfhub.com/)
+https://www.bilibili.com/video/BV1eq4y1x71H?p=1&vd_source=86a65fc21faa41995dd7993275846864  **前7集**
 
-## 学习路线
+## 刷题网站：
 
--   [知道创宇研发技能表 v3.1](http://blog.knownsec.com/Knownsec_RD_Checklist/index.html)
--   [漏洞银行(BUGBANK)技能树 ](https://skills.bugbank.cn/)
--   [安全技能树简版 by 余弦](http://evilcos.me/security_skill_tree_basic/index.html)
--   [安全类思维导图 by phith0n](https://github.com/phith0n/Mind-Map)
--   [信息安全从业者书单推荐](https://github.com/riusksk/secbook)
--   [CTFHub 技能树](https://www.ctfhub.com/#/skilltree)
+1. https://www.nssctf.cn/problem
+2. https://buuoj.cn/challenges
+3. https://www.ichunqiu.com
 
-## 信息资讯
+## Crypto方向
 
--   [FreeBuf.COM | 关注黑客与极客](http://www.freebuf.com/)
--   [安全客 - 有思想的安全新媒体](https://www.anquanke.com/)
--   [嘶吼 RoarTalk – 回归最本质的信息安全](http://www.4hou.com/)
--   [Sec-News 安全文摘](https://wiki.ioin.in/)
+《现代密码学基础》（大三选修课），了解基本古典密码和现代密码原理，掌握相应的代码实现。
+大致题型见ctfwiki的crypto部分  [密码学简介 - CTF Wiki (ctf-wiki.org)](https://ctf-wiki.org/crypto/introduction/)
 
-## 技术论坛
+## RE方向
 
--   [吾爱破解](http://www.52pojie.cn)
--   [看雪论坛](http://bbs.pediy.com/)
--   [先知社区](https://xz.aliyun.com/)
--   [i春秋论坛](https://bbs.ichunqiu.com/)
+RE和PWN都要有x86汇编基础 没有的话先学
 
-## CTF 赛事
+RE推荐入门书《逆向工程核心原理》[韩]李承远
 
--   [XCTF社区](https://www.xctf.org.cn/)
--   [CTFtime](https://ctftime.org/)
--   [CTFHub 赛事中心](https://www.ctfhub.com/#/calendar)
+## PWN方向
 
-## CTF OJ
+入门视频： https://www.bilibili.com/video/BV1854y1y7Ro?p=1&vd_source=86a65fc21faa41995dd7993275846864
+学习网站：
 
--   [XCTF OJ](http://oj.xctf.org.cn)
--   [CTF大本营](https://www.ichunqiu.com/competition)
--   [pwnhub](https://pwnhub.cn/index)
--   [南邮网络攻防训练平台](http://ctf.nuptsast.com/)
--   [HackingLab 网络信息安全攻防学习平台](http://hackinglab.cn/)
--   [BugkuCTF](http://ctf.bugku.com/)
--   [WeChall](https://www.wechall.net/)
--   [Sniper OJ](http://www.sniperoj.com/)
--   [Jarvis OJ](https://www.jarvisoj.com/)
--   [CTF Learn](https://ctflearn.com/)
--   [Hackme CTF](https://hackme.inndy.tw/scoreboard/)
--   [Practice CTF List](http://captf.com/practice-ctf/)
--   [CTFHub 真题复现](https://www.ctfhub.com/#/challenge)
+1. https://guyinatuxedo.github.io/index.html （推荐，讲的比较详细）
+2. https://ctf-wiki.org/pwn/linux/user-mode/stackoverflow/x86/stack-intro/
+3. https://github.com/shellphish/how2heap
 
-## CTF 工具
+## WEB方向
 
--   [看雪工具](https://tools.pediy.com/)
--   [吾爱破解工具](https://down.52pojie.cn/Tools/)
--   [CTF在线工具 by CTFcode](http://ctf.ssleye.com/)
--   [CTF在线工具箱 by bugku](http://tool.bugku.com/)
--   [CTF工具资源库 by HBCTF team](https://ctftools.com/down/)
--   [ctf-tools by zardus](https://github.com/zardus/ctf-tools)
--   [The Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/)
--   [CTFHub 工具库](https://www.ctfhub.com/#/tools)
-
-## CTF Writeup 集合
-
--   [CTFs Writeup 集锦](https://github.com/ctfs)
--   [CTF solution by p4 team](https://github.com/p4-team/ctf)
--   [CTFHub Writeup](https://writeup.ctfhub.com/)
-
-## 资源聚合
-
--   [渗透师导航](https://www.shentoushi.top/)
--   [安全圈](https://www.anquanquan.info/)
--   [纳威安全导航](https://navisec.it/)
--   [XssSafe导航](https://www.xssav.com/)
--   [Coco413 Blog](https://www.coco413.com/navi.html)
--   [安全导航](https://www.milw0rm.cn/nav/)
--   [SecWeb](https://thief.one/SecWeb/)
+```
+一些blog
+https://www.leavesongs.com/sort/PENETRATION
+https://buuoj.cn/login
+http://www.anquanke.com/
+https://cyc1e183.github.io/
+https://www.seebug.org/
+https://www.cnblogs.com/hetianlab/
+https://doc.hitctf.cn/
+https://swas.console.aliyun.com/#/servers
+https://skysec.top/2020/08/23/2020-%E7%AC%AC%E5%9B%9B%E5%B1%8A%E5%BC%BA%E7%BD%91%E6%9D%AF%E5%85%A8%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%8C%91%E6%88%98%E8%B5%9BOnline-Writeup/
+https://devops.aliyun.com/organization/5f0e7630769820a3e817de42
+https://study.ichunqiu.com/student/train/index
+https://sqliteonline.com/
+https://owasp.org/
+https://www.mi1k7ea.com/
+https://book.hacktricks.xyz/
+https://xz.aliyun.com/
+https://codechina.csdn.net/mirrors/eastmountyxz/imageprocessing-python?utm_source=csdn_github_accelerator
+https://172.16.4.37/manage/Welcome/index
+http://14.21.43.250:8089/red/index/index.html
+https://mcfx.us/page/2/
+https://fanxiao.tech/posts/MIT-6S081-notes/#lecture-3-page-tables
+https://onlineunicodetools.com/generate-unicode-letters
+https://xuanxuanblingbling.github.io/
+https://www.ruanx.net/
+http://www.yongsheng.site/
+https://www.php.net/manual/zh/book.spl.php
+http://www.snowywar.top/
+https://r0yanx.com/
+http://shell-storm.org/repo/CTF/
+http://w4nder.top/index.php/2021/06/28/gkctf2021/
+https://susec.me/2022/03/13/phpok6-0-%E5%89%8D%E5%8F%B0%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9Egetshell/
+https://blog.z3ratu1.cn/HFCTF2022%E5%9D%90%E7%89%A2%E5%A4%8D%E7%8E%B0.html
+https://team-su.github.io/
+https://inhann.top/2022/03/26/hfctf2022_ezphp/
+https://www.wolai.com/8y9mP4KXpN6hLfNfM4y7VD
+https://command-not-found.com/
+http://blog.leanote.com/xp0int
+https://inhann.top/
+https://www.viewofthai.link/2022/06/05/%E5%9B%BD%E8%B5%9B-%E7%BA%BF%E4%B8%8A%E5%88%9D%E8%B5%9B-ciscn-2022-web-%E9%83%A8%E5%88%86wp/
+https://www.sqlsec.com/#indexCard
+https://qftm.github.io/
+https://www.viewofthai.link/
+https://blog.gzti.me/
+https://lazzzaro.github.io/2020/05/06/crypto-RSA/index.html
+```

@@ -1,4 +1,4 @@
-# 杂项简介
+# Misc简介
 !!! warning
     The current page still doesn't have a translation for this language.
 

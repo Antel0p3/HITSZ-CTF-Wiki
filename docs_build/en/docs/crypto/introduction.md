@@ -1,4 +1,4 @@
-# 密码学简介
+# Crypto简介
 !!! warning
     The current page still doesn't have a translation for this language.
 

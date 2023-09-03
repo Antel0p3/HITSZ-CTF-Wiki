@@ -1,4 +1,4 @@
-# 杂项简介
+# Misc简介
 
 Misc 是英文 Miscellaneous 的前四个字母，杂项、混合体、大杂烩的意思。
 
