@@ -15,3 +15,15 @@
 欢迎大家通过 Pull Request 的方式对本项目作出贡献
 如果有同学想参加本项目的工作，可以通过邮箱联系我：`1474912948@qq.com`  
 希望能有更多的人加入我们
+
+## How to build?
+```sh
+# 1. clone
+git clone https://github.com/Antel0p3/HITSZ-CTF-Wiki
+# 2. requirements  (here we use python3.8)
+pip3 install -r requirements.txt
+# generate static file in site/
+python3 scripts/docs.py build-all
+# deploy at http://127.0.0.1:80
+python3 scripts/docs.py serve
+```
