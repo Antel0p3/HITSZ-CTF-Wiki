@@ -177,10 +177,14 @@ nav:
       - web/Function_library/PHP.md
       - web/Function_library/python.md
 - Pwn:
+  - 知识总结:
+    - pwn/points/symbol-restore/symbol-restore.md
+    - pwn/points/elf-file/elf-file.md
+    - pwn/points/pwn-tools/pwn-tools.md
+    - pwn/points/binary-protection/binary-protection.md
+    - pwn/points/change-libc/change-libc.md
   - pwn/introduction.md
   - pwn/roadmap.md
-  - 知识总结:
-    - pwn/points/binary-protection/binary-protection.md
   - WriteUp:
     - pwn/writeups/shellwego-wp/shellwego-wp.md
 markdown_extensions:
