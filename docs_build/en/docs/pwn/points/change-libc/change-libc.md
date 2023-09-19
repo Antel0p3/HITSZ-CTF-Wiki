@@ -80,3 +80,5 @@ patchelf --replace-needed "$libpath" glibc-all-in-one/libs/2.23-0ubuntu3_amd64/l
 ## 0x6 可能问题： patchelf报错 `version GLIBC_2.34’ not found` 
 解决方法（稍为繁琐）：在ubuntu18或ubuntu16中用gcc (gcc版本为7-) 编译，再将文件导入当前系统并进行以上patchelf操作，就可以正常执行了
 具体原因笔者还没找到，可能是因为你当前linux系统版本较高，对应的gcc版本高，编译后的二进制文件无法与过早的glibc版本连接，但我尝试过在kali 6.0.0 (gcc版本为12.2.0) 中下载低版本gcc进行编译以及多种方式，还是同样的报错结果（如果有大神发现具体原因和更简便的解决方法能告诉我吗，感激）
+
+> 个人博客 https://antel0p3.github.io/

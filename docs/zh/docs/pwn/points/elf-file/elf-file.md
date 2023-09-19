@@ -131,3 +131,5 @@ Start              End                Offset             Perm Path
 > https://intezer.com/blog/research/executable-linkable-format-101-part1-sections-segments/
 >
 > https://intezer.com/blog/malware-analysis/executable-linkable-format-101-part-4-dynamic-linking/
+
+> 个人博客 https://antel0p3.github.io/

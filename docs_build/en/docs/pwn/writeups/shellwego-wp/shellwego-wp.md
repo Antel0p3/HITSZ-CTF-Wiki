@@ -1,4 +1,4 @@
-# ciscn2023 shellwego writeup
+---
 !!! warning
     The current page still doesn't have a translation for this language.
 
@@ -7,6 +7,18 @@
     Besides, you can also help to translate it: [Contributing](https://ctf-wiki.org/en/contribute/before-contributing/). 
 
 
+title: ciscn2023 shellwego writeup
+date: 2023-05-31 11:25:36
+tags:
+- CTF
+- pwn
+- stack
+- ciscn2023
+categories:
+- pwn-wp
+---
+
+# ciscn2023 shellwego writeup
 
 这题是go语言程序 感觉逆向的占比大于pwn...
 ## 0x1 checksec 查看安全保护
@@ -145,3 +157,5 @@ proc.interactive()
 pause()
 
 ```
+
+> 个人博客 https://antel0p3.github.io/

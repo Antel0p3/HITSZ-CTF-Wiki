@@ -52,130 +52,138 @@ nav:
 - Web:
   - web/introduction.md
   - 知识总结:
-    - web/changelog.md
-    - web/website.md
+    - web/points/website.md
     - 源码泄露:
-      - web/源码泄露/源码泄露.md
-      - web/源码泄露/CTF比赛中信息搜集的一些trick.md
-      - web/源码泄露/十大常见的Web源码泄漏漏洞及其利用.md
+      - web/points/源码泄露/源码泄露.md
+      - web/points/源码泄露/CTF比赛中信息搜集的一些trick.md
+      - web/points/源码泄露/十大常见的Web源码泄漏漏洞及其利用.md
     - Linux:
-      - web/linux/linux管道符与重定向.md
-      - web/linux/内联执行.md
-      - web/linux/LD_PRELOAD函数劫持.md
-      - web/linux/web常用linux路径.md
-      - web/linux/linux绕过姿势.md
+      - web/points/linux/linux管道符与重定向.md
+      - web/points/linux/内联执行.md
+      - web/points/linux/LD_PRELOAD函数劫持.md
+      - web/points/linux/web常用linux路径.md
+      - web/points/linux/linux绕过姿势.md
     - SSTI:
-      - web/ssti/模板的基础语法.md
+      - web/points/ssti/模板的基础语法.md
       - flask:
-        - web/ssti/flask/flask_ssti.md
-        - web/ssti/flask/flask_pin.md
-      - web/ssti/erb注入.md
-      - web/ssti/php.md
-      - web/ssti/暴力payload.md
+        - web/points/ssti/flask/flask_ssti.md
+        - web/points/ssti/flask/flask_pin.md
+      - web/points/ssti/erb注入.md
+      - web/points/ssti/php.md
+      - web/points/ssti/暴力payload.md
     - Serialize:
       - PHP:
-        - web/serialize/PHP/php_serialize.md
+        - web/points/serialize/PHP/php_serialize.md
         - PHP原生类的应用:
-          - web/serialize/PHP/PHP原生类的应用/DirectoryIterator.md
-          - web/serialize/PHP/PHP原生类的应用/else.md
-          - web/serialize/PHP/PHP原生类的应用/Error_Exception.md
-          - web/serialize/PHP/PHP原生类的应用/SimpleXMLElement.md
-          - web/serialize/PHP/PHP原生类的应用/SoapClient.md
-        - web/serialize/PHP/phar反序列化漏洞.md
-        - web/serialize/PHP/session反序列化跳板.md
+          - web/points/serialize/PHP/PHP原生类的应用/DirectoryIterator.md
+          - web/points/serialize/PHP/PHP原生类的应用/else.md
+          - web/points/serialize/PHP/PHP原生类的应用/Error_Exception.md
+          - web/points/serialize/PHP/PHP原生类的应用/SimpleXMLElement.md
+          - web/points/serialize/PHP/PHP原生类的应用/SoapClient.md
+        - web/points/serialize/PHP/phar反序列化漏洞.md
+        - web/points/serialize/PHP/session反序列化跳板.md
       - Java:
-        - web/serialize/java/xmldecoder.md
+        - web/points/serialize/java/xmldecoder.md
       - Python:
-        - web/serialize/python/Pickle反序列化.md
+        - web/points/serialize/python/Pickle反序列化.md
     - SQL:
       - SQL_Injection:
-        - web/sql/SQL_Injection/基本原理.md
-        - web/sql/SQL_Injection/联合查询.md
-        - web/sql/SQL_Injection/布尔盲注.md
-        - web/sql/SQL_Injection/宽字节注入.md
-        - web/sql/SQL_Injection/order_by_排序注入.md
-        - web/sql/SQL_Injection/堆叠注入.md
-        - web/sql/SQL_Injection/二次注入.md
-        - web/sql/SQL_Injection/报错注入.md
-        - web/sql/SQL_Injection/无列名注入.md
+        - web/points/sql/SQL_Injection/基本原理.md
+        - web/points/sql/SQL_Injection/联合查询.md
+        - web/points/sql/SQL_Injection/布尔盲注.md
+        - web/points/sql/SQL_Injection/宽字节注入.md
+        - web/points/sql/SQL_Injection/order_by_排序注入.md
+        - web/points/sql/SQL_Injection/堆叠注入.md
+        - web/points/sql/SQL_Injection/二次注入.md
+        - web/points/sql/SQL_Injection/报错注入.md
+        - web/points/sql/SQL_Injection/无列名注入.md
         - SQL注入绕过姿势:
-          - web/sql/SQL_Injection/SQL注入绕过姿势/万能密码.md
-          - web/sql/SQL_Injection/SQL注入绕过姿势/SQL注入绕过姿势.md
-      - web/sql/little_trick.md
-      - web/sql/基于约束的sql攻击.md
-      - web/sql/sqlite.md
+          - web/points/sql/SQL_Injection/SQL注入绕过姿势/万能密码.md
+          - web/points/sql/SQL_Injection/SQL注入绕过姿势/SQL注入绕过姿势.md
+      - web/points/sql/little_trick.md
+      - web/points/sql/基于约束的sql攻击.md
+      - web/points/sql/sqlite.md
+      - web/points/sql/NOSQL_注入/nosql注入.md
     - Upload:
-      - web/upload/文件上传基础.md
-      - web/upload/文件上传中进阶.md
-      - web/upload/htaccess.md
-      - web/upload/木马.md
+      - web/points/upload/文件上传基础.md
+      - web/points/upload/文件上传中进阶.md
+      - web/points/upload/htaccess.md
+      - web/points/upload/木马.md
     - Include:
-      - web/include/include_normal.md
-      - web/include/include_pro.md
-    - web/csrf_ssrf_ssi/CSRF.md
+      - web/points/include/include_normal.md
+      - web/points/include/include_pro.md
+    - web/points/csrf_ssrf_ssi/CSRF.md
     - SSRF:
-      - web/csrf_ssrf_ssi/SSRF/ssrf.md
-      - web/csrf_ssrf_ssi/SSRF/Gopher协议.md
-      - web/csrf_ssrf_ssi/SSRF/FastCGI.md
-      - web/csrf_ssrf_ssi/SSRF/举例例题.md
-      - web/csrf_ssrf_ssi/SSRF/练习.md
-    - web/csrf_ssrf_ssi/SSI.md
+      - web/points/csrf_ssrf_ssi/SSRF/ssrf.md
+      - web/points/csrf_ssrf_ssi/SSRF/Gopher协议.md
+      - web/points/csrf_ssrf_ssi/SSRF/FastCGI.md
+      - web/points/csrf_ssrf_ssi/SSRF/举例例题.md
+      - web/points/csrf_ssrf_ssi/SSRF/练习.md
+    - web/points/csrf_ssrf_ssi/SSI.md
     - XSS CSS CSP:
       - XSS:
-        - web/XSS_CSS_CSP/xss/XSS.md
-        - web/XSS_CSS_CSP/xss/CTF中的利用姿势.md
-      - web/XSS_CSS_CSP/css/CSS注入.md
-      - web/XSS_CSS_CSP/csp/CSP.md
+        - web/points/XSS_CSS_CSP/xss/XSS.md
+        - web/points/XSS_CSS_CSP/xss/CTF中的利用姿势.md
+      - web/points/XSS_CSS_CSP/css/CSS注入.md
+      - web/points/XSS_CSS_CSP/csp/CSP.md
     - XML:
-      - web/XML/xxe.md
+      - web/points/XML/xxe.md
     - 框架漏洞_函数漏洞:
       - PHP:
-        - web/框架漏洞_函数漏洞/PHP/htaccess文件.md
-        - web/框架漏洞_函数漏洞/PHP/Thinkphp5.0远程代码执行漏洞.md
-        - web/框架漏洞_函数漏洞/PHP/传参格式.md
-        - web/框架漏洞_函数漏洞/PHP/Thinkphp6.0.0-6.0.1文件名上传漏洞.md
-        - web/框架漏洞_函数漏洞/PHP/get_header().md
-        - web/框架漏洞_函数漏洞/PHP/弱类型比较.md
-        - web/框架漏洞_函数漏洞/PHP/空格与WAF.md
-        - web/框架漏洞_函数漏洞/PHP/php7_segment_fault临时文件包含.md
-        - web/框架漏洞_函数漏洞/PHP/escapeshellarg()_escapeshellcmd().md
-        - web/框架漏洞_函数漏洞/PHP/extract变量覆盖.md
-        - web/框架漏洞_函数漏洞/PHP/assert断言.md
-        - web/框架漏洞_函数漏洞/PHP/ereg正则%00截断.md
-        - web/框架漏洞_函数漏洞/PHP/open_basedir绕过.md
-        - web/框架漏洞_函数漏洞/PHP/PHP-FPM未授权访问漏洞.md
-        - web/框架漏洞_函数漏洞/PHP/Thinkphp3.2.md
-        - web/框架漏洞_函数漏洞/PHP/php字符串解析特性.md
-        - web/框架漏洞_函数漏洞/PHP/常见命令执行函数.md
+        - web/points/框架漏洞_函数漏洞/PHP/htaccess文件.md
+        - web/points/框架漏洞_函数漏洞/PHP/Thinkphp5.0远程代码执行漏洞.md
+        - web/points/框架漏洞_函数漏洞/PHP/传参格式.md
+        - web/points/框架漏洞_函数漏洞/PHP/Thinkphp6.0.0-6.0.1文件名上传漏洞.md
+        - web/points/框架漏洞_函数漏洞/PHP/get_header().md
+        - web/points/框架漏洞_函数漏洞/PHP/弱类型比较.md
+        - web/points/框架漏洞_函数漏洞/PHP/空格与WAF.md
+        - web/points/框架漏洞_函数漏洞/PHP/php7_segment_fault临时文件包含.md
+        - web/points/框架漏洞_函数漏洞/PHP/escapeshellarg()_escapeshellcmd().md
+        - web/points/框架漏洞_函数漏洞/PHP/extract变量覆盖.md
+        - web/points/框架漏洞_函数漏洞/PHP/assert断言.md
+        - web/points/框架漏洞_函数漏洞/PHP/ereg正则%00截断.md
+        - web/points/框架漏洞_函数漏洞/PHP/open_basedir绕过.md
+        - web/points/框架漏洞_函数漏洞/PHP/PHP-FPM未授权访问漏洞.md
+        - web/points/框架漏洞_函数漏洞/PHP/Thinkphp3.2.md
+        - web/points/框架漏洞_函数漏洞/PHP/php字符串解析特性.md
+        - web/points/框架漏洞_函数漏洞/PHP/常见命令执行函数.md
       - Java:
-        - web/框架漏洞_函数漏洞/Java/jboss_getshell.md
+        - web/points/框架漏洞_函数漏洞/Java/jboss_getshell.md
       - Python:
-        - web/框架漏洞_函数漏洞/python2_python3/python3/Redis.md
+        - web/points/框架漏洞_函数漏洞/python2_python3/python3/Redis.md
       - Perl:
-        - web/框架漏洞_函数漏洞/Perl/管道符.md
-        - web/框架漏洞_函数漏洞/Perl/PARAM.md
+        - web/points/框架漏洞_函数漏洞/Perl/管道符.md
+        - web/points/框架漏洞_函数漏洞/Perl/PARAM.md
       - JavaScript:
         - Nodejs-原型链污染:
-          - web/框架漏洞_函数漏洞/JavaScript/Node.js/Nodejs-原型链污染/原理.md
-          - web/框架漏洞_函数漏洞/JavaScript/Node.js/Nodejs-原型链污染/实战.md
-        - web/框架漏洞_函数漏洞/JavaScript/Node.js/nodejs沙盒.md
-        - web/框架漏洞_函数漏洞/JavaScript/Node.js/nodejs_unicode字符损坏.md
+          - web/points/框架漏洞_函数漏洞/JavaScript/Node.js/Nodejs-原型链污染/原理.md
+          - web/points/框架漏洞_函数漏洞/JavaScript/Node.js/Nodejs-原型链污染/实战.md
+        - web/points/框架漏洞_函数漏洞/JavaScript/Node.js/nodejs沙盒.md
+        - web/points/框架漏洞_函数漏洞/JavaScript/Node.js/nodejs_unicode字符损坏.md
     - Scripts:
-      - web/scripts/RC4加密脚本.md
-      - web/scripts/md5截断爆破.md
-      - web/scripts/Flask-Session脚本解密.md
-      - web/scripts/取反字符.md
-      - web/scripts/php_seed爆破.md
-      - web/scripts/Php_session中的条件竞争脚本.md
+      - web/points/scripts/RC4加密脚本.md
+      - web/points/scripts/md5截断爆破.md
+      - web/points/scripts/Flask-Session脚本解密.md
+      - web/points/scripts/取反字符.md
+      - web/points/scripts/php_seed爆破.md
+      - web/points/scripts/Php_session中的条件竞争脚本.md
     - Crypto:
-      - web/crypto/MD5扩展攻击介绍.md
-      - web/crypto/CBC_Padding_Oracle攻击.md
-      - web/crypto/CBC字节翻转攻击.md
+      - web/points/crypto/MD5扩展攻击介绍.md
+      - web/points/crypto/CBC_Padding_Oracle攻击.md
+      - web/points/crypto/CBC字节翻转攻击.md
     - Function_library:
-      - web/Function_library/JavaScript.md
-      - web/Function_library/Go.md
-      - web/Function_library/PHP.md
-      - web/Function_library/python.md
+      - web/points/Function_library/JavaScript.md
+      - web/points/Function_library/Go.md
+      - web/points/Function_library/PHP.md
+      - web/points/Function_library/python.md
+  - WriteUp:
+    - web/writeups/ciscn_easy_ser/ciscn_easy_ser.md
+    - web/writeups/Time_based-Rce/Time_based-Rce.md
+    - web/writeups/[GKCTF2021]easycms.md
+    - web/writeups/[NCTF2019]phar_matches_everything.md
+    - web/writeups/[网鼎杯 2020 半决赛]BabyJS.md
+    - web/writeups/HITCON 2019 Buggy_Net.md
+    - web/writeups/WMCTF2020checkin2.0.md
 - Pwn:
   - 知识总结:
     - pwn/points/symbol-restore/symbol-restore.md
@@ -187,6 +195,20 @@ nav:
   - pwn/roadmap.md
   - WriteUp:
     - pwn/writeups/shellwego-wp/shellwego-wp.md
+    - pwn/writeups/BJDCTF2020-girlfriend-wp/BJDCTF2020-girlfriend-wp.md
+    - pwn/writeups/GDOUCTF2023-easymath-wp/GDOUCTF2023-easymath-wp.md
+    - pwn/writeups/NISACTF2022-shoppwn-wp/NISACTF2022-shoppwn-wp.md
+    - pwn/writeups/NISACTF2022-uaf-wp/NISACTF2022-uaf-wp.md
+    - pwn/writeups/深育杯2021-find-flag-wp/深育杯2021-find-flag-wp.md
+    - pwn/writeups/BKP2016-simplecalc-wp/BKP2016-simplecalc-wp.md
+    - pwn/writeups/dcquals16-feedme/dcquals16-feedme.md
+    - pwn/writeups/csawquals2017-svc-wp/csawquals2017-svc-wp.md
+    - pwn/writeups/HS2019-storytime-wp/HS2019-storytime-wp.md
+    - pwn/writeups/Backdoorctf2017-bbpwn-wp/Backdoorctf2017-bbpwn-wp.md
+    - pwn/writeups/watevrctf2019-betstar-wp/watevrctf2019-betstar-wp.md
+    - pwn/writeups/Hacklu2015-stackstuff-wp/Hacklu2015-stackstuff-wp.md
+    - pwn/writeups/XCTFQuals2016-b0verfl0w-wp/XCTFQuals2016-b0verfl0w-wp.md
+    - pwn/writeups/SwampCTF2019-DreamHeaps-wp/SwampCTF2019-DreamHeaps-wp.md
 markdown_extensions:
 - admonition
 - md_in_html

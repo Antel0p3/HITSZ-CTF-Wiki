@@ -675,3 +675,585 @@ BrokenPipeError: [Errno 32] Broken pipe
 10.250.68.254 - - [04/Sep/2023 03:03:54] "GET /static/img/18.png HTTP/1.1" 304 -
 10.250.68.254 - - [04/Sep/2023 03:03:56] "GET /members/ HTTP/1.1" 200 -
 10.250.68.254 - - [04/Sep/2023 03:03:56] "GET /assets/stylesheets/main.eebd395e.min.css HTTP/1.1" 200 -
+10.250.68.254 - - [04/Sep/2023 03:03:56] "GET /assets/stylesheets/palette.ecc896b0.min.css HTTP/1.1" 200 -
+10.250.68.254 - - [04/Sep/2023 03:03:56] "GET /static/img/20.png HTTP/1.1" 200 -
+10.250.68.254 - - [04/Sep/2023 03:03:56] "GET /static/css/extra.css HTTP/1.1" 200 -
+10.250.68.254 - - [04/Sep/2023 03:03:56] "GET /static/img/logo2.png HTTP/1.1" 200 -
+10.250.68.254 - - [04/Sep/2023 03:03:56] "GET /static/img/19.png HTTP/1.1" 200 -
+10.250.68.254 - - [04/Sep/2023 03:03:56] "GET /assets/javascripts/bundle.220ee61c.min.js HTTP/1.1" 200 -
+10.250.68.254 - - [04/Sep/2023 03:03:56] "GET /static/img/18.png HTTP/1.1" 200 -
+10.250.68.254 - - [04/Sep/2023 03:03:56] "GET /static/js/extra.js HTTP/1.1" 200 -
+10.250.68.254 - - [04/Sep/2023 03:03:56] "GET /search/search_index.json HTTP/1.1" 200 -
+10.250.68.254 - - [04/Sep/2023 03:03:56] "GET /assets/javascripts/workers/search.74e28a9f.min.js HTTP/1.1" 200 -
+10.250.68.254 - - [04/Sep/2023 03:03:56] "GET /assets/images/favicon.png HTTP/1.1" 200 -
+10.250.68.254 - - [04/Sep/2023 03:03:57] "GET / HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 03:13:47] "GET / HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 03:13:47] "GET /assets/stylesheets/main.eebd395e.min.css HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 03:13:47] "GET /assets/stylesheets/palette.ecc896b0.min.css HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 03:13:47] "GET /static/css/extra.css HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 03:13:47] "GET /static/img/logo2.png HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 03:13:47] "GET /assets/javascripts/bundle.220ee61c.min.js HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 03:13:47] "GET /static/js/extra.js HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 03:13:47] "GET /search/search_index.json HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 03:13:48] "GET /assets/javascripts/workers/search.74e28a9f.min.js HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 03:13:50] "GET /members/ HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 03:13:50] "GET /static/img/20.png HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 03:13:50] "GET /static/img/18.png HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 03:13:50] "GET /static/img/19.png HTTP/1.1" 304 -
+10.250.140.230 - - [04/Sep/2023 03:24:53] "GET / HTTP/1.1" 200 -
+10.250.140.230 - - [04/Sep/2023 03:24:53] "GET /assets/stylesheets/main.eebd395e.min.css HTTP/1.1" 200 -
+10.250.140.230 - - [04/Sep/2023 03:24:53] "GET /static/css/extra.css HTTP/1.1" 200 -
+10.250.140.230 - - [04/Sep/2023 03:24:53] "GET /assets/stylesheets/palette.ecc896b0.min.css HTTP/1.1" 200 -
+10.250.140.230 - - [04/Sep/2023 03:24:53] "GET /assets/javascripts/bundle.220ee61c.min.js HTTP/1.1" 200 -
+10.250.140.230 - - [04/Sep/2023 03:24:53] "GET /static/js/extra.js HTTP/1.1" 200 -
+10.250.140.230 - - [04/Sep/2023 03:24:53] "GET /static/img/logo2.png HTTP/1.1" 200 -
+10.250.140.230 - - [04/Sep/2023 03:24:53] "GET /search/search_index.json HTTP/1.1" 200 -
+10.250.140.230 - - [04/Sep/2023 03:24:55] "GET /assets/javascripts/workers/search.74e28a9f.min.js HTTP/1.1" 200 -
+10.250.140.230 - - [04/Sep/2023 03:24:56] "GET /assets/images/favicon.png HTTP/1.1" 200 -
+10.250.140.230 - - [04/Sep/2023 03:24:56] "GET /assets/javascripts/lunr/min/lunr.stemmer.support.min.js HTTP/1.1" 200 -
+10.250.140.230 - - [04/Sep/2023 03:24:56] "GET /assets/javascripts/lunr/tinyseg.js HTTP/1.1" 200 -
+10.250.140.230 - - [04/Sep/2023 03:24:56] "GET /assets/javascripts/lunr/min/lunr.ja.min.js HTTP/1.1" 200 -
+10.250.140.230 - - [04/Sep/2023 03:25:13] "GET /introduction/history/ HTTP/1.1" 200 -
+10.250.140.230 - - [04/Sep/2023 03:25:15] "GET /join/ HTTP/1.1" 200 -
+10.250.21.207 - - [04/Sep/2023 03:25:22] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03Õs6^ë¿\x82"/\x00\x18Â]\x92¼ÈyÊ¦·\x7f°U\x1b«\x90\x02Åälõ\x16')
+10.250.21.207 - - [04/Sep/2023 03:25:22] "  üÕs6^ë¿"/ Â]¼ÈyÊ¦·°U«Åälõ ËGë_p¯" 400 -
+10.250.21.207 - - [04/Sep/2023 03:25:22] code 400, message Bad request version ('êê\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x1a\x1a\x00\x00\x00+\x00\x07\x06\x1a\x1a\x03\x04\x03\x03\x00\x17\x00\x00Di\x00\x05\x00\x03\x02h2\x00')
+10.250.21.207 - - [04/Sep/2023 03:25:22] "  üø­ÑÂñ«Ø¶ Ä¥AÀÅz%kÃ»b6ý¼ºl/T [­0ÿ2o×T^¸L[¥ë\!èÌÀ®: ò·se  êêÀ+À/À,À0Ì©Ì¨ÀÀ   / 5    +    Di  h2 " 400 -
+10.250.21.207 - - [04/Sep/2023 03:25:23] "GET / HTTP/1.1" 200 -
+10.250.21.207 - - [04/Sep/2023 03:25:23] "GET /assets/stylesheets/main.eebd395e.min.css HTTP/1.1" 200 -
+10.250.21.207 - - [04/Sep/2023 03:25:23] "GET /static/css/extra.css HTTP/1.1" 200 -
+10.250.21.207 - - [04/Sep/2023 03:25:23] "GET /assets/stylesheets/palette.ecc896b0.min.css HTTP/1.1" 200 -
+10.250.21.207 - - [04/Sep/2023 03:25:24] "GET /assets/javascripts/bundle.220ee61c.min.js HTTP/1.1" 200 -
+10.250.21.207 - - [04/Sep/2023 03:25:24] "GET /static/js/extra.js HTTP/1.1" 200 -
+10.250.21.207 - - [04/Sep/2023 03:25:24] "GET /static/img/logo2.png HTTP/1.1" 200 -
+10.250.21.207 - - [04/Sep/2023 03:25:24] "GET /search/search_index.json HTTP/1.1" 200 -
+10.250.21.207 - - [04/Sep/2023 03:25:24] "GET /assets/javascripts/workers/search.74e28a9f.min.js HTTP/1.1" 200 -
+10.250.21.207 - - [04/Sep/2023 03:25:24] "GET /assets/javascripts/lunr/min/lunr.stemmer.support.min.js HTTP/1.1" 200 -
+10.250.21.207 - - [04/Sep/2023 03:25:24] "GET /assets/javascripts/lunr/tinyseg.js HTTP/1.1" 200 -
+10.250.21.207 - - [04/Sep/2023 03:25:24] "GET /assets/javascripts/lunr/min/lunr.ja.min.js HTTP/1.1" 200 -
+10.250.21.207 - - [04/Sep/2023 03:25:25] "GET /assets/images/favicon.png HTTP/1.1" 200 -
+10.250.140.230 - - [04/Sep/2023 03:25:34] "GET /members/ HTTP/1.1" 200 -
+10.250.140.230 - - [04/Sep/2023 03:25:34] "GET /static/img/20.png HTTP/1.1" 200 -
+10.250.140.230 - - [04/Sep/2023 03:25:35] "GET /static/img/19.png HTTP/1.1" 200 -
+10.250.140.230 - - [04/Sep/2023 03:25:36] "GET /static/img/18.png HTTP/1.1" 200 -
+10.250.21.207 - - [04/Sep/2023 03:25:40] "GET /members/ HTTP/1.1" 200 -
+10.250.21.207 - - [04/Sep/2023 03:25:40] "GET /static/img/19.png HTTP/1.1" 200 -
+10.250.21.207 - - [04/Sep/2023 03:25:40] "GET /static/img/18.png HTTP/1.1" 200 -
+10.250.21.207 - - [04/Sep/2023 03:25:40] "GET /static/img/20.png HTTP/1.1" 200 -
+10.250.21.207 - - [04/Sep/2023 03:26:00] "GET /static/null/ HTTP/1.1" 200 -
+10.250.140.230 - - [04/Sep/2023 03:26:01] "GET /introduction/resources/ HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:27:17] "GET / HTTP/1.1" 200 -
+10.250.21.207 - - [04/Sep/2023 03:27:17] "GET /pwn/writeups/shellwego-wp/shellwego-wp/ HTTP/1.1" 200 -
+10.250.140.230 - - [04/Sep/2023 03:27:17] "GET /misc/introduction/ HTTP/1.1" 200 -
+10.250.140.230 - - [04/Sep/2023 03:27:17] "GET /misc/introduction/ HTTP/1.1" 200 -
+10.250.140.230 - - [04/Sep/2023 03:27:17] "GET /pwn/introduction/ HTTP/1.1" 200 -
+10.250.21.207 - - [04/Sep/2023 03:27:17] "GET /pwn/writeups/shellwego-wp/shellwego-wp/ HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:27:17] "GET / HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:27:17] "GET /assets/stylesheets/main.eebd395e.min.css HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:27:17] "GET /assets/stylesheets/palette.ecc896b0.min.css HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:27:17] "GET /static/css/extra.css HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:27:17] "GET /assets/javascripts/bundle.220ee61c.min.js HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:27:17] "GET /static/js/extra.js HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:27:17] "GET /static/img/logo2.png HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:27:17] "GET /search/search_index.json HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:27:17] "GET /assets/javascripts/workers/search.74e28a9f.min.js HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:27:18] "GET /assets/javascripts/lunr/min/lunr.stemmer.support.min.js HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:27:18] "GET /assets/javascripts/lunr/tinyseg.js HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:27:18] "GET /assets/javascripts/lunr/min/lunr.ja.min.js HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:27:20] "GET /crypto/introduction/ HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:27:32] "GET /static/null/ HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:27:35] "GET /web/introduction/ HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:27:40] "GET /web/crypto/MD5%E6%89%A9%E5%B1%95%E6%94%BB%E5%87%BB%E4%BB%8B%E7%BB%8D/ HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:27:49] "GET /reverse/introduction/ HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:27:52] "GET /pwn/introduction/ HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:27:56] "GET /pwn/points/binary-protection/binary-protection/ HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:27:56] "GET /pwn/points/binary-protection/0x1.png HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:27:56] "GET /pwn/points/binary-protection/0x2.png HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:27:56] "GET /pwn/points/binary-protection/0x3.png HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:27:57] "GET /pwn/points/binary-protection/0x5.png HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:27:57] "GET /pwn/points/binary-protection/0x4.png HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:28:21] "GET /join/ HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:28:23] "GET /members/ HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:28:23] "GET /static/img/20.png HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:28:23] "GET /static/img/18.png HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:28:23] "GET /static/img/19.png HTTP/1.1" 200 -
+10.250.162.44 - - [04/Sep/2023 03:30:38] "GET /pwn/writeups/shellwego-wp/shellwego-wp/ HTTP/1.1" 200 -
+10.250.162.44 - - [04/Sep/2023 03:30:38] "GET /pwn/writeups/shellwego-wp/shellwego-wp/ HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:30:42] "GET /pwn/writeups/shellwego-wp/shellwego-wp/ HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:30:42] "GET /pwn/writeups/shellwego-wp/checksec.png HTTP/1.1" 200 -
+10.250.162.44 - - [04/Sep/2023 03:30:42] "GET /assets/stylesheets/palette.ecc896b0.min.css HTTP/1.1" 200 -
+10.250.162.44 - - [04/Sep/2023 03:30:42] "GET /static/css/extra.css HTTP/1.1" 200 -
+10.250.162.44 - - [04/Sep/2023 03:30:42] "GET /assets/stylesheets/main.eebd395e.min.css HTTP/1.1" 200 -
+----------------------------------------
+Exception happened during processing of request from ('10.250.162.44', 57195)
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/socketserver.py", line 316, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.8/socketserver.py", line 347, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.8/socketserver.py", line 360, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.8/http/server.py", line 646, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.8/socketserver.py", line 720, in __init__
+    self.handle()
+  File "/usr/lib/python3.8/http/server.py", line 426, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.8/http/server.py", line 414, in handle_one_request
+    method()
+  File "/usr/lib/python3.8/http/server.py", line 653, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.8/http/server.py", line 852, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.8/shutil.py", line 205, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.8/socketserver.py", line 799, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+10.250.162.44 - - [04/Sep/2023 03:30:42] "GET /static/img/logo2.png HTTP/1.1" 200 -
+----------------------------------------
+Exception happened during processing of request from ('10.250.162.44', 57197)
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/socketserver.py", line 316, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.8/socketserver.py", line 347, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.8/socketserver.py", line 360, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.8/http/server.py", line 646, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.8/socketserver.py", line 720, in __init__
+    self.handle()
+  File "/usr/lib/python3.8/http/server.py", line 426, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.8/http/server.py", line 414, in handle_one_request
+    method()
+  File "/usr/lib/python3.8/http/server.py", line 653, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.8/http/server.py", line 852, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.8/shutil.py", line 205, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.8/socketserver.py", line 799, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+10.250.70.196 - - [04/Sep/2023 03:30:42] "GET /pwn/writeups/shellwego-wp/0x2.png HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:30:42] "GET /pwn/writeups/shellwego-wp/0x3-1.png HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:30:42] "GET /pwn/writeups/shellwego-wp/0x3-3.png HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:30:42] "GET /pwn/writeups/shellwego-wp/0x3-32.png HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:30:42] "GET /pwn/writeups/shellwego-wp/0x3-2.png HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:30:42] "GET /pwn/writeups/shellwego-wp/0x4-1.png HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:30:42] "GET /pwn/writeups/shellwego-wp/0x4-2.png HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:30:42] "GET /pwn/writeups/shellwego-wp/0x4-3.png HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:30:42] "GET /pwn/writeups/shellwego-wp/0x4-4.png HTTP/1.1" 200 -
+10.250.70.196 - - [04/Sep/2023 03:30:42] "GET /pwn/writeups/shellwego-wp/0x4-5.png HTTP/1.1" 200 -
+10.250.143.239 - - [04/Sep/2023 03:31:49] code 400, message Bad request version ('ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ÊÊ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+10.250.143.239 - - [04/Sep/2023 03:31:49] "  üÞYv<½òÂYO¿w7uv^Úq-æñòÇrQ· Àáxdk(î¿#~Ð<^}²D¼cì±Çk  ªªÀ+À/À,À0Ì©Ì¨ÀÀ   / 5 ÊÊ     ÿ   " 400 -
+10.250.143.239 - - [04/Sep/2023 03:31:49] code 400, message Bad request version ('Ó¾ØÏ\x9b6$5\x81\x01Ò\x1aÍ\x05!Ë6¾yºr4\x00"jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+10.250.143.239 - - [04/Sep/2023 03:31:49] "  üO£wÝùd4¯5 3pÛÞm/³aÉQºÈ sKYÁe½Û Ó¾ØÏ6$5ÒÍ!Ë6¾yºr4 "jjÀ+À/À,À0Ì©Ì¨ÀÀ   / 5 " 400 -
+10.250.143.239 - - [04/Sep/2023 03:31:49] "GET / HTTP/1.1" 200 -
+10.250.143.239 - - [04/Sep/2023 03:31:50] "GET /assets/stylesheets/palette.ecc896b0.min.css HTTP/1.1" 200 -
+10.250.143.239 - - [04/Sep/2023 03:31:50] "GET /assets/stylesheets/main.eebd395e.min.css HTTP/1.1" 200 -
+10.250.143.239 - - [04/Sep/2023 03:31:50] "GET /static/css/extra.css HTTP/1.1" 200 -
+10.250.143.239 - - [04/Sep/2023 03:31:50] "GET /assets/javascripts/bundle.220ee61c.min.js HTTP/1.1" 200 -
+10.250.143.239 - - [04/Sep/2023 03:31:50] "GET /static/js/extra.js HTTP/1.1" 200 -
+10.250.143.239 - - [04/Sep/2023 03:31:50] "GET /static/img/logo2.png HTTP/1.1" 200 -
+10.250.143.239 - - [04/Sep/2023 03:31:50] "GET /search/search_index.json HTTP/1.1" 200 -
+10.250.143.239 - - [04/Sep/2023 03:31:50] code 400, message Bad request version ('::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x8a\x8a\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+10.250.143.239 - - [04/Sep/2023 03:31:50] "  ü¨q°0h{±3±V¸Í¡{|nÎáÑëï3×"í*¥ {ùzêp5±ÙT¥á3du@/Àø7­l  ::À+À/À,À0Ì©Ì¨ÀÀ   / 5      ÿ   " 400 -
+10.250.143.239 - - [04/Sep/2023 03:31:50] "GET /assets/javascripts/workers/search.74e28a9f.min.js HTTP/1.1" 200 -
+10.250.143.239 - - [04/Sep/2023 03:31:50] code 400, message Bad request version ('²\x19Lo\x00"\x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+Warning: this is a very simple server.
+For development, use the command live instead.
+This is here only to preview a site with translations already built.
+Make sure you run the build-all command first.
+Serving at: http://127.0.0.1:80
+10.250.68.254 - - [04/Sep/2023 12:35:23] "GET /web/website/ HTTP/1.1" 200 -
+10.250.68.254 - - [04/Sep/2023 12:35:23] "GET /assets/stylesheets/main.eebd395e.min.css HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 12:35:23] "GET /assets/stylesheets/palette.ecc896b0.min.css HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 12:35:23] "GET /static/css/extra.css HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 12:35:23] "GET /static/img/logo2.png HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 12:35:23] "GET /assets/javascripts/bundle.220ee61c.min.js HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 12:35:23] "GET /static/js/extra.js HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 12:35:23] "GET /search/search_index.json HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 12:35:23] "GET /assets/javascripts/workers/search.74e28a9f.min.js HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 12:35:23] "GET /assets/javascripts/lunr/min/lunr.stemmer.support.min.js HTTP/1.1" 200 -
+10.250.68.254 - - [04/Sep/2023 12:35:23] "GET /assets/javascripts/lunr/tinyseg.js HTTP/1.1" 200 -
+10.250.68.254 - - [04/Sep/2023 12:35:23] "GET /assets/images/favicon.png HTTP/1.1" 200 -
+10.250.68.254 - - [04/Sep/2023 12:35:23] "GET /assets/javascripts/lunr/min/lunr.ja.min.js HTTP/1.1" 200 -
+
+Aborted!
+Warning: this is a very simple server.
+For development, use the command live instead.
+This is here only to preview a site with translations already built.
+Make sure you run the build-all command first.
+Serving at: http://127.0.0.1:80
+10.250.68.254 - - [04/Sep/2023 12:35:36] "GET /web/website/ HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 12:35:38] "GET / HTTP/1.1" 200 -
+10.250.68.254 - - [04/Sep/2023 12:35:39] "GET /members/ HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 12:35:39] "GET /static/img/20.png HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 12:35:39] "GET /static/img/19.png HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 12:35:39] "GET /static/img/18.png HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 12:35:58] "GET /join/ HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 12:35:58] "GET /members/ HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 12:35:59] "GET /crypto/introduction/ HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 12:36:00] "GET /introduction/history/ HTTP/1.1" 200 -
+10.250.68.254 - - [04/Sep/2023 12:36:01] "GET /introduction/content/ HTTP/1.1" 200 -
+10.250.68.254 - - [04/Sep/2023 12:36:01] "GET /misc/introduction/ HTTP/1.1" 200 -
+10.250.68.254 - - [04/Sep/2023 12:36:03] "GET /misc/introduction/ HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 12:36:05] "GET /reverse/introduction/ HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 12:36:06] "GET /pwn/introduction/ HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 12:36:07] "GET /pwn/writeups/shellwego-wp/shellwego-wp/ HTTP/1.1" 200 -
+10.250.68.254 - - [04/Sep/2023 12:36:07] "GET /pwn/writeups/shellwego-wp/checksec.png HTTP/1.1" 200 -
+10.250.68.254 - - [04/Sep/2023 12:36:08] "GET /pwn/writeups/shellwego-wp/0x3-1.png HTTP/1.1" 200 -
+10.250.68.254 - - [04/Sep/2023 12:36:08] "GET /pwn/writeups/shellwego-wp/0x2.png HTTP/1.1" 200 -
+10.250.68.254 - - [04/Sep/2023 12:36:08] "GET /pwn/writeups/shellwego-wp/0x3-2.png HTTP/1.1" 200 -
+10.250.68.254 - - [04/Sep/2023 12:36:08] "GET /pwn/writeups/shellwego-wp/0x3-3.png HTTP/1.1" 200 -
+10.250.68.254 - - [04/Sep/2023 12:36:08] "GET /pwn/writeups/shellwego-wp/0x3-32.png HTTP/1.1" 200 -
+10.250.68.254 - - [04/Sep/2023 12:36:08] "GET /pwn/writeups/shellwego-wp/0x4-1.png HTTP/1.1" 200 -
+10.250.68.254 - - [04/Sep/2023 12:36:08] "GET /pwn/writeups/shellwego-wp/0x4-2.png HTTP/1.1" 200 -
+10.250.68.254 - - [04/Sep/2023 12:36:08] "GET /pwn/writeups/shellwego-wp/0x4-3.png HTTP/1.1" 200 -
+10.250.68.254 - - [04/Sep/2023 12:36:08] "GET /pwn/writeups/shellwego-wp/0x4-4.png HTTP/1.1" 200 -
+10.250.68.254 - - [04/Sep/2023 12:36:08] "GET /pwn/writeups/shellwego-wp/0x4-5.png HTTP/1.1" 200 -
+10.250.68.254 - - [04/Sep/2023 12:42:09] "GET /members/ HTTP/1.1" 200 -
+10.250.29.212 - - [04/Sep/2023 14:06:39] "GET / HTTP/1.1" 200 -
+10.250.68.254 - - [04/Sep/2023 14:14:57] "GET /web/introduction/ HTTP/1.1" 200 -
+10.250.68.254 - - [04/Sep/2023 14:14:57] "GET /assets/stylesheets/main.eebd395e.min.css HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 14:14:57] "GET /assets/stylesheets/palette.ecc896b0.min.css HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 14:14:57] "GET /static/css/extra.css HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 14:14:57] "GET /static/img/logo2.png HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 14:14:57] "GET /assets/javascripts/bundle.220ee61c.min.js HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 14:14:57] "GET /static/js/extra.js HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 14:14:57] "GET /search/search_index.json HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 14:14:57] "GET /assets/javascripts/workers/search.74e28a9f.min.js HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 14:14:57] "GET /assets/javascripts/lunr/min/lunr.stemmer.support.min.js HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 14:14:57] "GET /assets/javascripts/lunr/tinyseg.js HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 14:14:57] "GET /assets/javascripts/lunr/min/lunr.ja.min.js HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 14:15:04] "GET /web/csrf_ssrf_ssi/SSI/ HTTP/1.1" 200 -
+10.250.68.254 - - [04/Sep/2023 14:15:13] "GET /web/ssti/flask/flask_ssti/ HTTP/1.1" 200 -
+10.250.68.254 - - [04/Sep/2023 14:50:35] "GET /web/ssti/flask/flask_ssti/ HTTP/1.1" 304 -
+10.250.68.254 - - [04/Sep/2023 14:50:36] "GET /assets/images/favicon.png HTTP/1.1" 304 -
+10.250.68.254 - - [05/Sep/2023 01:36:27] "GET / HTTP/1.1" 304 -
+10.250.68.254 - - [05/Sep/2023 01:36:27] "GET /assets/stylesheets/palette.ecc896b0.min.css HTTP/1.1" 304 -
+10.250.68.254 - - [05/Sep/2023 01:36:27] "GET /assets/stylesheets/main.eebd395e.min.css HTTP/1.1" 304 -
+10.250.68.254 - - [05/Sep/2023 01:36:27] "GET /static/img/logo2.png HTTP/1.1" 304 -
+10.250.68.254 - - [05/Sep/2023 01:36:27] "GET /assets/javascripts/bundle.220ee61c.min.js HTTP/1.1" 304 -
+10.250.68.254 - - [05/Sep/2023 01:36:27] "GET /static/css/extra.css HTTP/1.1" 304 -
+10.250.68.254 - - [05/Sep/2023 01:36:27] "GET /assets/javascripts/bundle.220ee61c.min.js HTTP/1.1" 200 -
+10.250.68.254 - - [05/Sep/2023 01:36:27] "GET /static/js/extra.js HTTP/1.1" 304 -
+10.250.68.254 - - [05/Sep/2023 01:36:27] "GET /search/search_index.json HTTP/1.1" 304 -
+10.250.68.254 - - [05/Sep/2023 01:36:27] "GET /static/js/extra.js HTTP/1.1" 200 -
+10.250.68.254 - - [05/Sep/2023 01:36:27] "GET /assets/javascripts/workers/search.74e28a9f.min.js HTTP/1.1" 304 -
+10.250.68.254 - - [05/Sep/2023 01:36:27] "GET /assets/javascripts/workers/search.74e28a9f.min.js HTTP/1.1" 200 -
+10.250.68.254 - - [05/Sep/2023 01:36:27] "GET /assets/javascripts/lunr/min/lunr.stemmer.support.min.js HTTP/1.1" 304 -
+10.250.68.254 - - [05/Sep/2023 01:36:27] "GET /assets/javascripts/lunr/tinyseg.js HTTP/1.1" 304 -
+10.250.68.254 - - [05/Sep/2023 01:36:27] "GET /assets/javascripts/lunr/min/lunr.stemmer.support.min.js HTTP/1.1" 200 -
+10.250.68.254 - - [05/Sep/2023 01:36:27] "GET /assets/javascripts/lunr/tinyseg.js HTTP/1.1" 200 -
+10.250.68.254 - - [05/Sep/2023 01:36:27] "GET /assets/javascripts/lunr/min/lunr.ja.min.js HTTP/1.1" 304 -
+10.250.68.254 - - [05/Sep/2023 01:36:27] "GET /assets/javascripts/lunr/min/lunr.ja.min.js HTTP/1.1" 200 -
+10.250.68.254 - - [05/Sep/2023 01:36:29] "GET /introduction/history/ HTTP/1.1" 200 -
+10.250.68.254 - - [05/Sep/2023 01:36:30] "GET /members/ HTTP/1.1" 200 -
+10.250.68.254 - - [05/Sep/2023 01:36:30] "GET /static/img/20.png HTTP/1.1" 304 -
+10.250.68.254 - - [05/Sep/2023 01:36:30] "GET /static/img/19.png HTTP/1.1" 304 -
+10.250.68.254 - - [05/Sep/2023 01:36:30] "GET /static/img/18.png HTTP/1.1" 304 -
+10.250.177.175 - - [05/Sep/2023 08:00:43] "GET / HTTP/1.1" 200 -
+10.250.177.175 - - [05/Sep/2023 08:00:43] "GET /assets/stylesheets/main.eebd395e.min.css HTTP/1.1" 200 -
+10.250.177.175 - - [05/Sep/2023 08:00:43] "GET /static/css/extra.css HTTP/1.1" 200 -
+10.250.177.175 - - [05/Sep/2023 08:00:43] "GET /assets/stylesheets/palette.ecc896b0.min.css HTTP/1.1" 200 -
+10.250.177.175 - - [05/Sep/2023 08:00:43] "GET /assets/javascripts/bundle.220ee61c.min.js HTTP/1.1" 200 -
+10.250.177.175 - - [05/Sep/2023 08:00:44] "GET /static/js/extra.js HTTP/1.1" 200 -
+10.250.177.175 - - [05/Sep/2023 08:00:44] "GET /static/img/logo2.png HTTP/1.1" 200 -
+10.250.177.175 - - [05/Sep/2023 08:00:44] "GET /search/search_index.json HTTP/1.1" 200 -
+10.250.177.175 - - [05/Sep/2023 08:00:44] "GET /assets/javascripts/workers/search.74e28a9f.min.js HTTP/1.1" 200 -
+10.250.177.175 - - [05/Sep/2023 08:00:44] "GET /assets/javascripts/lunr/min/lunr.stemmer.support.min.js HTTP/1.1" 200 -
+10.250.177.175 - - [05/Sep/2023 08:00:44] "GET /assets/javascripts/lunr/tinyseg.js HTTP/1.1" 200 -
+10.250.177.175 - - [05/Sep/2023 08:00:44] "GET /assets/javascripts/lunr/min/lunr.ja.min.js HTTP/1.1" 200 -
+10.250.177.175 - - [05/Sep/2023 08:01:07] "GET /members/ HTTP/1.1" 200 -
+10.250.177.175 - - [05/Sep/2023 08:01:07] "GET /static/img/20.png HTTP/1.1" 200 -
+10.250.177.175 - - [05/Sep/2023 08:01:07] "GET /static/img/19.png HTTP/1.1" 200 -
+10.250.177.175 - - [05/Sep/2023 08:01:08] "GET /static/img/18.png HTTP/1.1" 200 -
+10.250.68.254 - - [06/Sep/2023 01:41:01] "GET / HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 01:41:01] "GET /assets/stylesheets/palette.ecc896b0.min.css HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 01:41:01] "GET /assets/stylesheets/main.eebd395e.min.css HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 01:41:01] "GET /static/img/logo2.png HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 01:41:01] "GET /static/css/extra.css HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 01:41:01] "GET /assets/javascripts/bundle.220ee61c.min.js HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 01:41:01] "GET /assets/javascripts/bundle.220ee61c.min.js HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 01:41:01] "GET /static/js/extra.js HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 01:41:01] "GET /search/search_index.json HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 01:41:01] "GET /static/js/extra.js HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 01:41:02] "GET /assets/javascripts/workers/search.74e28a9f.min.js HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 01:41:02] "GET /assets/javascripts/lunr/min/lunr.stemmer.support.min.js HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 01:41:02] "GET /assets/javascripts/lunr/tinyseg.js HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 01:41:02] "GET /assets/javascripts/lunr/min/lunr.ja.min.js HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 01:41:02] "GET /assets/javascripts/workers/search.74e28a9f.min.js HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 01:41:02] "GET /assets/javascripts/lunr/tinyseg.js HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 01:41:02] "GET /assets/javascripts/lunr/min/lunr.stemmer.support.min.js HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 01:41:02] "GET /assets/javascripts/lunr/min/lunr.ja.min.js HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 01:41:03] "GET /introduction/history/ HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 01:41:05] "GET /members/ HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 01:41:05] "GET /static/img/20.png HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 01:41:05] "GET /static/img/19.png HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 01:41:05] "GET /static/img/18.png HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 01:41:07] "GET /crypto/introduction/ HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 01:41:11] "GET /pwn/introduction/ HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 01:41:13] "GET /reverse/introduction/ HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 01:41:22] "GET /web/introduction/ HTTP/1.1" 200 -
+10.250.68.254 - - [06/Sep/2023 06:42:51] "GET / HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 06:42:51] "GET /assets/stylesheets/main.eebd395e.min.css HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 06:42:51] "GET /assets/stylesheets/palette.ecc896b0.min.css HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 06:42:51] "GET /static/img/logo2.png HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 06:42:51] "GET /static/css/extra.css HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 06:42:51] "GET /assets/javascripts/bundle.220ee61c.min.js HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 06:42:51] "GET /assets/javascripts/bundle.220ee61c.min.js HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 06:42:51] "GET /static/js/extra.js HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 06:42:51] "GET /search/search_index.json HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 06:42:51] "GET /static/js/extra.js HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 06:42:52] "GET /assets/javascripts/workers/search.74e28a9f.min.js HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 06:42:52] "GET /assets/javascripts/lunr/min/lunr.stemmer.support.min.js HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 06:42:52] "GET /assets/javascripts/lunr/tinyseg.js HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 06:42:52] "GET /assets/javascripts/workers/search.74e28a9f.min.js HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 06:42:52] "GET /assets/javascripts/lunr/min/lunr.stemmer.support.min.js HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 06:42:52] "GET /assets/javascripts/lunr/min/lunr.ja.min.js HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 06:42:52] "GET /assets/javascripts/lunr/tinyseg.js HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 06:42:52] "GET /assets/javascripts/lunr/min/lunr.ja.min.js HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 06:42:54] "GET /web/introduction/ HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 06:42:58] "GET /web/csrf_ssrf_ssi/SSRF/ssrf/ HTTP/1.1" 200 -
+10.250.68.254 - - [06/Sep/2023 07:32:41] "GET /web/csrf_ssrf_ssi/SSRF/Gopher%E5%8D%8F%E8%AE%AE/ HTTP/1.1" 200 -
+10.250.68.254 - - [06/Sep/2023 07:32:46] "GET /web/csrf_ssrf_ssi/SSRF/FastCGI/ HTTP/1.1" 200 -
+10.250.68.254 - - [06/Sep/2023 07:32:49] "GET /web/csrf_ssrf_ssi/SSRF/%E4%B8%BE%E4%BE%8B%E4%BE%8B%E9%A2%98/ HTTP/1.1" 200 -
+10.250.68.254 - - [06/Sep/2023 07:32:58] "GET /web/csrf_ssrf_ssi/SSRF/%E7%BB%83%E4%B9%A0/ HTTP/1.1" 200 -
+10.250.68.254 - - [06/Sep/2023 07:34:48] "GET /web/changelog/ HTTP/1.1" 200 -
+10.250.68.254 - - [06/Sep/2023 07:34:56] "GET /web/website/ HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 07:36:02] "GET /pwn/introduction/ HTTP/1.1" 304 -
+10.250.68.254 - - [06/Sep/2023 07:37:45] "GET /web/serialize/java/xmldecoder/?h=stack HTTP/1.1" 200 -
+10.250.68.254 - - [06/Sep/2023 07:38:05] "GET /pwn/points/elf-file/elf-file/?h= HTTP/1.1" 200 -
+10.250.68.254 - - [06/Sep/2023 07:38:05] "GET /pwn/points/elf-file/0x1.png HTTP/1.1" 200 -
+10.250.68.254 - - [06/Sep/2023 07:38:05] "GET /pwn/points/elf-file/0x2.png HTTP/1.1" 200 -
+10.250.68.254 - - [06/Sep/2023 07:38:05] "GET /pwn/points/elf-file/0x4.png HTTP/1.1" 200 -
+10.250.68.254 - - [06/Sep/2023 07:38:05] "GET /pwn/points/elf-file/0x5.png HTTP/1.1" 200 -
+10.250.68.254 - - [06/Sep/2023 07:38:05] "GET /pwn/points/elf-file/0x3.png HTTP/1.1" 200 -
+10.250.68.254 - - [06/Sep/2023 07:38:05] "GET /pwn/points/elf-file/0x6.png HTTP/1.1" 200 -
+10.250.68.254 - - [06/Sep/2023 07:43:21] "GET /pwn/points/binary-protection/binary-protection/ HTTP/1.1" 200 -
+10.250.68.254 - - [06/Sep/2023 07:43:21] "GET /pwn/points/binary-protection/0x1.png HTTP/1.1" 200 -
+10.250.68.254 - - [06/Sep/2023 07:43:21] "GET /pwn/points/binary-protection/0x2.png HTTP/1.1" 200 -
+10.250.68.254 - - [06/Sep/2023 07:43:21] "GET /pwn/points/binary-protection/0x3.png HTTP/1.1" 200 -
+10.250.68.254 - - [06/Sep/2023 07:43:22] "GET /pwn/points/binary-protection/0x5.png HTTP/1.1" 200 -
+10.250.68.254 - - [06/Sep/2023 07:43:22] "GET /pwn/points/binary-protection/0x4.png HTTP/1.1" 200 -
+10.250.68.254 - - [06/Sep/2023 07:43:23] "GET /pwn/points/change-libc/change-libc/ HTTP/1.1" 200 -
+10.250.68.254 - - [06/Sep/2023 07:43:27] "GET /pwn/points/symbol-restore/symbol-restore/ HTTP/1.1" 200 -
+10.250.68.254 - - [06/Sep/2023 07:43:27] "GET /pwn/points/symbol-restore/0x1.png HTTP/1.1" 200 -
+10.250.68.254 - - [06/Sep/2023 07:43:27] "GET /pwn/points/symbol-restore/0x2.png HTTP/1.1" 200 -
+10.250.68.254 - - [06/Sep/2023 07:43:27] "GET /pwn/points/symbol-restore/0x3.png HTTP/1.1" 200 -
+10.250.68.254 - - [06/Sep/2023 07:43:27] "GET /pwn/points/symbol-restore/0x4.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 01:57:20] "GET / HTTP/1.1" 304 -
+10.250.68.254 - - [09/Sep/2023 01:57:20] "GET /assets/stylesheets/palette.ecc896b0.min.css HTTP/1.1" 304 -
+10.250.68.254 - - [09/Sep/2023 01:57:20] "GET /assets/stylesheets/main.eebd395e.min.css HTTP/1.1" 304 -
+10.250.68.254 - - [09/Sep/2023 01:57:20] "GET /static/css/extra.css HTTP/1.1" 304 -
+10.250.68.254 - - [09/Sep/2023 01:57:20] "GET /assets/javascripts/bundle.220ee61c.min.js HTTP/1.1" 304 -
+10.250.68.254 - - [09/Sep/2023 01:57:20] "GET /static/img/logo2.png HTTP/1.1" 304 -
+10.250.68.254 - - [09/Sep/2023 01:57:20] "GET /static/js/extra.js HTTP/1.1" 304 -
+10.250.68.254 - - [09/Sep/2023 01:57:20] "GET /assets/javascripts/bundle.220ee61c.min.js HTTP/1.1" 304 -
+10.250.68.254 - - [09/Sep/2023 01:57:20] "GET /search/search_index.json HTTP/1.1" 304 -
+10.250.68.254 - - [09/Sep/2023 01:57:20] "GET /static/js/extra.js HTTP/1.1" 304 -
+10.250.68.254 - - [09/Sep/2023 02:36:28] "GET /assets/javascripts/workers/search.74e28a9f.min.js HTTP/1.1" 304 -
+10.250.68.254 - - [09/Sep/2023 02:36:28] "GET /assets/javascripts/lunr/min/lunr.stemmer.support.min.js HTTP/1.1" 304 -
+10.250.68.254 - - [09/Sep/2023 02:36:28] "GET /assets/javascripts/lunr/tinyseg.js HTTP/1.1" 304 -
+10.250.68.254 - - [09/Sep/2023 02:36:28] "GET /assets/javascripts/lunr/min/lunr.ja.min.js HTTP/1.1" 304 -
+10.250.68.254 - - [09/Sep/2023 02:36:32] "GET /pwn/introduction/ HTTP/1.1" 304 -
+10.250.68.254 - - [09/Sep/2023 02:36:39] "GET /pwn/writeups/shellwego-wp/shellwego-wp/ HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 02:36:39] "GET /pwn/writeups/shellwego-wp/checksec.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 02:36:39] "GET /pwn/writeups/shellwego-wp/0x2.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 02:36:39] "GET /pwn/writeups/shellwego-wp/0x3-1.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 02:36:39] "GET /pwn/writeups/shellwego-wp/0x3-2.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 02:36:39] "GET /pwn/writeups/shellwego-wp/0x3-3.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 02:36:39] "GET /pwn/writeups/shellwego-wp/0x3-32.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 02:36:39] "GET /pwn/writeups/shellwego-wp/0x4-1.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 02:36:39] "GET /pwn/writeups/shellwego-wp/0x4-2.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 02:36:39] "GET /pwn/writeups/shellwego-wp/0x4-3.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 02:36:39] "GET /pwn/writeups/shellwego-wp/0x4-4.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 02:36:39] "GET /pwn/writeups/shellwego-wp/0x4-5.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 02:36:41] "GET /pwn/points/symbol-restore/symbol-restore/ HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 02:36:41] "GET /pwn/points/symbol-restore/0x1.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 02:36:41] "GET /pwn/points/symbol-restore/0x2.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 02:36:41] "GET /pwn/points/symbol-restore/0x3.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 02:36:41] "GET /pwn/points/symbol-restore/0x4.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 02:36:47] "GET /pwn/points/elf-file/elf-file/ HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 02:36:47] "GET /pwn/points/elf-file/0x1.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 02:36:47] "GET /pwn/points/elf-file/0x2.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 02:36:47] "GET /pwn/points/elf-file/0x3.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 02:36:47] "GET /pwn/points/elf-file/0x5.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 02:36:47] "GET /pwn/points/elf-file/0x6.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 02:36:47] "GET /pwn/points/elf-file/0x4.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 02:51:32] "GET /members/ HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 02:51:32] "GET /static/img/20.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 02:51:32] "GET /static/img/19.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 02:51:33] "GET /static/img/18.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 04:07:13] "GET /introduction/history/ HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 04:07:14] "GET /introduction/experience/ HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 04:07:18] "GET /pwn/writeups/shellwego-wp/shellwego-wp/ HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 04:07:18] "GET /pwn/writeups/shellwego-wp/checksec.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 04:07:18] "GET /pwn/writeups/shellwego-wp/0x2.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 04:07:18] "GET /pwn/writeups/shellwego-wp/0x3-1.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 04:07:18] "GET /pwn/writeups/shellwego-wp/0x3-2.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 04:07:18] "GET /pwn/writeups/shellwego-wp/0x3-3.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 04:07:18] "GET /pwn/writeups/shellwego-wp/0x3-32.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 04:07:18] "GET /pwn/writeups/shellwego-wp/0x4-1.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 04:07:18] "GET /pwn/writeups/shellwego-wp/0x4-2.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 04:07:18] "GET /pwn/writeups/shellwego-wp/0x4-3.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 04:07:18] "GET /pwn/writeups/shellwego-wp/0x4-4.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 04:07:18] "GET /pwn/writeups/shellwego-wp/0x4-5.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 04:07:19] "GET /pwn/writeups/%E6%B7%B1%E8%82%B2%E6%9D%AF2021-find-flag-wp/%E6%B7%B1%E8%82%B2%E6%9D%AF2021-find-flag-wp/ HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 04:07:20] "GET /pwn/writeups/Backdoorctf2017-bbpwn-wp/Backdoorctf2017-bbpwn-wp/ HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 04:07:22] "GET /pwn/writeups/Hacklu2015-stackstuff-wp/Hacklu2015-stackstuff-wp/ HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 04:07:53] "GET /pwn/writeups/BKP2016-simplecalc-wp/BKP2016-simplecalc-wp/ HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 04:07:53] "GET /pwn/writeups/csawquals2017-svc-wp/csawquals2017-svc-wp/ HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 04:07:54] "GET /pwn/writeups/watevrctf2019-betstar-wp/watevrctf2019-betstar-wp/ HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 04:07:56] "GET /pwn/writeups/Hacklu2015-stackstuff-wp/Hacklu2015-stackstuff-wp/ HTTP/1.1" 304 -
+10.250.68.254 - - [09/Sep/2023 04:07:57] "GET /pwn/writeups/HS2019-storytime-wp/HS2019-storytime-wp/ HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 04:07:58] "GET /pwn/writeups/GDOUCTF2023-easymath-wp/GDOUCTF2023-easymath-wp/ HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 05:57:21] "GET /pwn/writeups/Hacklu2015-stackstuff-wp/Hacklu2015-stackstuff-wp/ HTTP/1.1" 304 -
+10.250.68.254 - - [09/Sep/2023 05:57:37] "GET /web/introduction/ HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 05:59:24] code 404, message File not found
+10.250.68.254 - - [09/Sep/2023 05:59:24] "GET /reverse/introduction/ HTTP/1.1" 404 -
+10.250.68.254 - - [09/Sep/2023 05:59:24] code 404, message File not found
+10.250.68.254 - - [09/Sep/2023 05:59:24] "GET /web/introduction/ HTTP/1.1" 404 -
+10.250.68.254 - - [09/Sep/2023 05:59:24] code 404, message File not found
+10.250.68.254 - - [09/Sep/2023 05:59:24] "GET /favicon.ico HTTP/1.1" 404 -
+10.250.68.254 - - [09/Sep/2023 06:18:35] code 404, message File not found
+10.250.68.254 - - [09/Sep/2023 06:18:35] "GET /web/introduction/ HTTP/1.1" 404 -
+10.250.68.254 - - [09/Sep/2023 06:18:35] code 404, message File not found
+10.250.68.254 - - [09/Sep/2023 06:18:35] "GET /reverse/introduction/ HTTP/1.1" 404 -
+10.250.68.254 - - [09/Sep/2023 06:18:37] code 404, message File not found
+10.250.68.254 - - [09/Sep/2023 06:18:37] "GET /reverse/introduction/ HTTP/1.1" 404 -
+10.250.68.254 - - [09/Sep/2023 06:18:41] code 404, message File not found
+10.250.68.254 - - [09/Sep/2023 06:18:41] "GET /reverse/introduction/ HTTP/1.1" 404 -
+10.250.68.254 - - [09/Sep/2023 06:22:00] "GET /reverse/introduction/ HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 06:22:00] "GET /assets/images/favicon.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 06:22:02] "GET /web/introduction/ HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 07:03:21] "GET /web/introduction/ HTTP/1.1" 304 -
+10.250.68.254 - - [09/Sep/2023 07:03:24] "GET /web/points/csrf_ssrf_ssi/CSRF/ HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 10:48:24] "GET /web/introduction/ HTTP/1.1" 304 -
+10.250.68.254 - - [09/Sep/2023 10:48:31] "GET /web/points/csrf_ssrf_ssi/SSI/ HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 10:48:42] "GET /web/points/XSS_CSS_CSP/xss/XSS/ HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 10:48:46] code 404, message File not found
+10.250.68.254 - - [09/Sep/2023 10:48:46] "GET /web/points/XSS_CSS_CSP/xss/XSS/1 HTTP/1.1" 404 -
+10.250.68.254 - - [09/Sep/2023 11:46:43] code 404, message File not found
+10.250.68.254 - - [09/Sep/2023 11:46:43] "GET /web/points/XSS_CSS_CSP/xss/XSS/1 HTTP/1.1" 404 -
+10.250.68.254 - - [09/Sep/2023 11:52:50] "GET /web/points/XML/xxe/ HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 11:52:50] "GET /web/points/XML/Untitled.assets/1049983-20180712233951266-1391283970.gif HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 11:52:50] "GET /web/points/XML/Untitled.assets/1205477-20170729140431597-914383211.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 11:52:50] "GET /web/points/XML/Untitled.assets/1205477-20170729140617472-1523498833.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 11:52:50] "GET /web/points/XML/Untitled.assets/1205477-20170729141950472-1045381626.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 11:52:50] "GET /web/points/XML/Untitled.assets/1205477-20170729142002394-1678808572.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 11:54:06] "GET /web/points/XSS_CSS_CSP/css/CSS%E6%B3%A8%E5%85%A5/ HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 11:54:20] "GET /web/points/XSS_CSS_CSP/csp/CSP/ HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 11:54:35] "GET /web/points/csrf_ssrf_ssi/SSI/ HTTP/1.1" 304 -
+10.250.68.254 - - [09/Sep/2023 13:57:00] "GET /assets/stylesheets/main.eebd395e.min.css HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 13:57:00] "GET /assets/stylesheets/palette.ecc896b0.min.css HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 13:57:00] "GET /static/css/extra.css HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 13:57:00] "GET /static/img/logo2.png HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 13:57:00] "GET /assets/javascripts/bundle.220ee61c.min.js HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 13:57:00] "GET /static/js/extra.js HTTP/1.1" 200 -
+10.250.68.254 - - [09/Sep/2023 13:57:00] "GET /search/search_index.json HTTP/1.1" 200 -
+10.250.68.254 - - [10/Sep/2023 00:30:08] "GET / HTTP/1.1" 200 -
+10.250.68.254 - - [10/Sep/2023 00:30:08] "GET /assets/stylesheets/palette.ecc896b0.min.css HTTP/1.1" 304 -
+10.250.68.254 - - [10/Sep/2023 00:30:08] "GET /assets/stylesheets/main.eebd395e.min.css HTTP/1.1" 304 -
+10.250.68.254 - - [10/Sep/2023 00:30:08] "GET /static/css/extra.css HTTP/1.1" 304 -
+10.250.68.254 - - [10/Sep/2023 00:30:08] "GET /static/img/logo2.png HTTP/1.1" 304 -
+10.250.68.254 - - [10/Sep/2023 00:30:08] "GET /assets/javascripts/bundle.220ee61c.min.js HTTP/1.1" 304 -
+10.250.68.254 - - [10/Sep/2023 00:30:08] "GET /static/js/extra.js HTTP/1.1" 304 -
+10.250.68.254 - - [10/Sep/2023 00:30:08] "GET /assets/javascripts/bundle.220ee61c.min.js HTTP/1.1" 200 -
+10.250.68.254 - - [10/Sep/2023 00:30:08] "GET /static/js/extra.js HTTP/1.1" 200 -
+10.250.68.254 - - [10/Sep/2023 00:30:08] "GET /search/search_index.json HTTP/1.1" 304 -
+10.249.10.33 - - [15/Sep/2023 12:23:54] "GET / HTTP/1.1" 304 -
+10.249.10.33 - - [15/Sep/2023 12:23:54] "GET /assets/stylesheets/main.eebd395e.min.css HTTP/1.1" 304 -
+10.249.10.33 - - [15/Sep/2023 12:23:54] "GET /assets/stylesheets/palette.ecc896b0.min.css HTTP/1.1" 304 -
+10.249.10.33 - - [15/Sep/2023 12:23:54] "GET /static/css/extra.css HTTP/1.1" 304 -
+10.249.10.33 - - [15/Sep/2023 12:23:54] "GET /static/img/logo2.png HTTP/1.1" 304 -
+10.249.10.33 - - [15/Sep/2023 12:23:54] "GET /assets/javascripts/bundle.220ee61c.min.js HTTP/1.1" 304 -
+10.249.10.33 - - [15/Sep/2023 12:23:54] "GET /static/js/extra.js HTTP/1.1" 304 -
+10.249.10.33 - - [15/Sep/2023 12:23:54] "GET /search/search_index.json HTTP/1.1" 304 -
+10.249.10.33 - - [15/Sep/2023 12:23:55] "GET /assets/javascripts/workers/search.74e28a9f.min.js HTTP/1.1" 200 -
+10.249.10.33 - - [15/Sep/2023 12:23:55] "GET /assets/javascripts/lunr/min/lunr.stemmer.support.min.js HTTP/1.1" 200 -
+10.249.10.33 - - [15/Sep/2023 12:23:55] "GET /assets/javascripts/lunr/tinyseg.js HTTP/1.1" 200 -
+10.249.10.33 - - [15/Sep/2023 12:23:55] "GET /assets/javascripts/lunr/min/lunr.ja.min.js HTTP/1.1" 200 -
+10.249.10.33 - - [15/Sep/2023 12:23:57] "GET /members/ HTTP/1.1" 200 -
+10.249.10.33 - - [15/Sep/2023 12:23:57] "GET /static/img/20.png HTTP/1.1" 200 -
+10.249.10.33 - - [15/Sep/2023 12:23:57] "GET /static/img/19.png HTTP/1.1" 200 -
+10.249.10.33 - - [15/Sep/2023 12:23:57] "GET /static/img/18.png HTTP/1.1" 200 -
+10.249.10.33 - - [15/Sep/2023 12:24:52] "GET /pwn/introduction/ HTTP/1.1" 200 -
+10.249.10.33 - - [15/Sep/2023 13:43:31] "GET /reverse/introduction/ HTTP/1.1" 304 -
+10.249.10.33 - - [15/Sep/2023 13:43:33] "GET /web/introduction/ HTTP/1.1" 200 -
+10.249.10.33 - - [15/Sep/2023 13:43:33] "GET /crypto/introduction/ HTTP/1.1" 200 -
+10.249.10.33 - - [15/Sep/2023 13:43:34] "GET /misc/introduction/ HTTP/1.1" 200 -
+10.249.10.33 - - [15/Sep/2023 13:43:34] "GET /introduction/history/ HTTP/1.1" 200 -
+10.249.10.33 - - [15/Sep/2023 14:23:30] "GET /assets/javascripts/bundle.220ee61c.min.js HTTP/1.1" 304 -
+10.249.10.33 - - [15/Sep/2023 14:23:30] "GET /static/js/extra.js HTTP/1.1" 304 -
+10.249.10.33 - - [15/Sep/2023 14:23:30] "GET /assets/javascripts/lunr/min/lunr.stemmer.support.min.js HTTP/1.1" 200 -
+10.249.10.33 - - [15/Sep/2023 14:23:30] "GET /assets/javascripts/workers/search.74e28a9f.min.js HTTP/1.1" 200 -
+10.249.10.33 - - [15/Sep/2023 14:23:30] "GET /assets/javascripts/lunr/tinyseg.js HTTP/1.1" 200 -
+10.249.10.33 - - [15/Sep/2023 14:23:30] "GET /assets/javascripts/lunr/min/lunr.ja.min.js HTTP/1.1" 200 -
+----------------------------------------
+Exception happened during processing of request from ('10.249.10.33', 59853)
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/socketserver.py", line 316, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.8/socketserver.py", line 347, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.8/socketserver.py", line 360, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.8/http/server.py", line 646, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.8/socketserver.py", line 720, in __init__
+    self.handle()
+  File "/usr/lib/python3.8/http/server.py", line 426, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.8/http/server.py", line 394, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('10.249.10.33', 59856)
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/socketserver.py", line 316, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.8/socketserver.py", line 347, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.8/socketserver.py", line 360, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.8/http/server.py", line 646, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.8/socketserver.py", line 720, in __init__
+    self.handle()
+  File "/usr/lib/python3.8/http/server.py", line 426, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.8/http/server.py", line 394, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+10.249.10.33 - - [18/Sep/2023 06:12:38] "GET / HTTP/1.1" 304 -
+10.249.10.33 - - [18/Sep/2023 06:12:38] "GET /assets/stylesheets/palette.ecc896b0.min.css HTTP/1.1" 304 -
+10.249.10.33 - - [18/Sep/2023 06:12:38] "GET /assets/stylesheets/main.eebd395e.min.css HTTP/1.1" 304 -
+10.249.10.33 - - [18/Sep/2023 06:12:38] "GET /static/css/extra.css HTTP/1.1" 304 -
+10.249.10.33 - - [18/Sep/2023 06:12:38] "GET /static/img/logo2.png HTTP/1.1" 304 -
+10.249.10.33 - - [18/Sep/2023 06:12:38] "GET /assets/javascripts/bundle.220ee61c.min.js HTTP/1.1" 304 -
+10.249.10.33 - - [18/Sep/2023 06:12:38] "GET /assets/javascripts/bundle.220ee61c.min.js HTTP/1.1" 304 -
+10.249.10.33 - - [18/Sep/2023 06:12:38] "GET /static/js/extra.js HTTP/1.1" 304 -
+10.249.10.33 - - [18/Sep/2023 06:12:39] "GET /search/search_index.json HTTP/1.1" 304 -
+10.249.10.33 - - [18/Sep/2023 06:12:39] "GET /static/js/extra.js HTTP/1.1" 304 -
+10.249.10.33 - - [18/Sep/2023 06:12:39] "GET /assets/images/favicon.png HTTP/1.1" 200 -
+10.249.10.33 - - [18/Sep/2023 06:12:39] "GET /assets/javascripts/workers/search.74e28a9f.min.js HTTP/1.1" 304 -
+10.249.10.33 - - [18/Sep/2023 06:12:39] "GET /assets/javascripts/lunr/min/lunr.stemmer.support.min.js HTTP/1.1" 304 -
+10.249.10.33 - - [18/Sep/2023 06:12:39] "GET /assets/javascripts/lunr/tinyseg.js HTTP/1.1" 304 -
+10.249.10.33 - - [18/Sep/2023 06:12:39] "GET /assets/javascripts/lunr/min/lunr.ja.min.js HTTP/1.1" 304 -
+10.249.10.33 - - [18/Sep/2023 06:12:39] "GET /assets/javascripts/workers/search.74e28a9f.min.js HTTP/1.1" 304 -
+10.249.10.33 - - [18/Sep/2023 06:12:39] "GET /assets/javascripts/lunr/tinyseg.js HTTP/1.1" 304 -
+10.249.10.33 - - [18/Sep/2023 06:12:39] "GET /assets/javascripts/lunr/min/lunr.stemmer.support.min.js HTTP/1.1" 304 -
+10.249.10.33 - - [18/Sep/2023 06:12:39] "GET /assets/javascripts/lunr/min/lunr.ja.min.js HTTP/1.1" 304 -

@@ -1,3 +1,13 @@
+---
+title: checksec与二进制程序保护机制（含PIE和ASLR比较）
+date: 2023-07-17 11:23:15
+tags:
+- CTF
+- pwn
+categories:
+- pwn-learning
+---
+
 # checksec与二进制程序保护机制（含PIE和ASLR比较）
 
 ## 二进制程序各保护机制
@@ -124,3 +134,5 @@ gef➤  start	# 注意aslr开启一定要在start之前
 如果有符号表的话当然可以直接使用 `b func_name` ，但如果没有符号表，在gef中可以使用 `pie b offset` ，gef会自动帮我们计算出正确的地址，如下图
 
 ![img](0x5.png)
+
+> 个人博客 https://antel0p3.github.io/
